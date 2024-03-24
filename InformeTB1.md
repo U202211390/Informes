@@ -16,7 +16,7 @@
 
 **Startup:** CodePace
 
-**Producto:** TripMate
+**Producto:** GetWork
 
 ### Integrantes:
 
@@ -82,8 +82,17 @@
 
 - 2.2. Entrevistas
   - 2.2.1. Diseño de entrevistas
-
 - 2.2.2. Registro de entrevistas
+
+| Entrevistado N°6: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 32                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
+| **Momento de inicio:**         | 0:04                                                       |
+| **Duración:**                  | 3:50                                                       |
 
 - 2.2.3. Análisis de entrevistas
 - 2.3. Needfinding
