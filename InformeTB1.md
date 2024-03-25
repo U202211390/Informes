@@ -1,4 +1,4 @@
-
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/58d653de-9791-46c1-be22-05082595750d)
 
 # Universidad Peruana de Ciencias Aplicadas
 ### INFORME DEL TRABAJO 1 (TB1)
@@ -194,12 +194,53 @@ Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y ses
 
 - 2.3. Needfinding
 - 2.3.1. User Personas
-- 
+  Segmento objetivo 1: Leticia Cassanova
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e9cf2616-00fc-422a-9803-0abbff8c61e6)
+  
+  Segmento objetivo 2: Maria Sanchez
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c328dcbf-3e6a-4b07-8ca3-6ccd5d8034f0)
+
+  
+  
 - 2.3.2. User Task Matrix
+Segmento objetivo 1: Leticia Cassanova
+
+| Actividades                                                                                               | Frecuencia     | Importancia |
+|-----------------------------------------------------------------------------------------------------------|----------------|-------------|
+| Acceder a recursos de preparación para entrevistas técnicas en línea.                                     | Con Frecuencia | Alta        |
+| Participar en simulacros de entrevistas técnicas en vivo.                                                  | Con Frecuencia | Alta        |
+| Realizar ejercicios de codificación práctica para mejorar habilidades técnicas.                            | Con Frecuencia | Alta        |
+| Almacenar y organizar documentos relacionados con oportunidades laborales y proyectos en la nube.         | A veces        | Media       |
+| Acceder a material de estudio y tutoriales para mejorar habilidades de codificación.                        | Con Frecuencia | Alta        |
+| Valorar la privacidad y seguridad en el acceso y almacenamiento de datos personales y laborales.          | Siempre         | Muy Alta    |
+| Utilizar herramientas colaborativas en línea para proyectos grupales o trabajo remoto.                     | Con Frecuencia | Alta        |
+| Participar en comunidades en línea para obtener retroalimentación y consejos sobre búsqueda de empleo.    | A veces        | Media       |
+| Actualizarse sobre tendencias y noticias del mercado laboral y tecnológico.                                | Con Frecuencia | Alta        |
+
+Segmento objetivo 2: Maria Sanchez
+
+| Actividades                                                                                               | Frecuencia       | Importancia |
+|-----------------------------------------------------------------------------------------------------------|------------------|-------------|
+| Acceder a recursos de preparación para entrevistas técnicas en línea.                                     | Con Frecuencia   | Alta        |
+| Participar en simulacros de entrevistas técnicas en vivo.                                                  | Con Frecuencia   | Alta        |
+| Realizar ejercicios de codificación práctica para mejorar habilidades técnicas.                            | Con Frecuencia   | Alta        |
+| Almacenar y organizar documentos relacionados con oportunidades laborales y proyectos en la nube.         | A veces          | Media       |
+| Acceder a material de estudio y tutoriales para mejorar habilidades de codificación.                       | Con Frecuencia   | Alta        |
+| Valorar la privacidad y seguridad en el acceso y almacenamiento de datos personales y laborales.          | Siempre          | Muy Alta    |
+| Utilizar herramientas colaborativas en línea para proyectos grupales o trabajo remoto.                     | Con Frecuencia   | Alta        |
+| Participar en comunidades en línea para obtener retroalimentación y consejos sobre búsqueda de empleo.    | A veces          | Media       |
+| Actualizarse sobre tendencias y noticias del mercado laboral y tecnológico.                                | Con Frecuencia   | Alta        |
+
 
 - 2.3.3. User Journey Mapping
+  
 
 - 2.3.4. Empathy Mapping
+  Segmento objetivo 1: Leticia Cassanova
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/151f3f54-a908-40d2-8711-9263ef504031)
+  
+  Segmento objetivo 2: Maria Sanchez
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/258d5100-da3e-4198-8497-c4eea2ff7418)
 
 - 2.3.5. As-is Scenario Mapping
 
