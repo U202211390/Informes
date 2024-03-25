@@ -24,9 +24,8 @@
 |-----------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo| u202210066   |
 | Paolo Del Carmen Martinez Villanueva | 202010039 |
-| Bárbara Antonella Espinoza Delgado| u201911727 |
 | Jeremy Joel Quispe Andia         | u202216279   |
-
+| Andrea Milagros Cabanillas Gora    | u202211711   |
 ### Marzo del 2024
 
 ### Registro de Informes
@@ -34,7 +33,7 @@
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completo  |
-| 1.1       |  2024/03/22    | Cabanillas, gora, Andrea Milagros|ante la fase de diseño, arquitectura propuesta y diseños de interfaz.               | Completo  |
+| 1.1       |  2024/03/22    | Cabanillas Gora, Andrea Milagros|ante la fase de diseño, arquitectura propuesta y diseños de interfaz.               | Completo  |
 | 1.2       |  2024/03/22    | Adrián Palma |implementación de funcionalidades, obstáculos encontrados y decisiones tomadas.     | En Proceso|
 | 1.3       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
 
@@ -89,7 +88,7 @@ Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y ses
         
   - 2.1.2. Estrategias y tácticas frente a competidores
 
-[6:28 p. m., 24/3/2024] Jeremy: <table><tr><th colspan="2" valign="top">Nombre</th><th valign="top"><b>GetWork</b></th><th valign="top">LeetCode</th><th valign="top">HackerRank</th><th valign="top">InterviewBit</th></tr>
+<table><tr><th colspan="2" valign="top">Nombre</th><th valign="top"><b>GetWork</b></th><th valign="top">LeetCode</th><th valign="top">HackerRank</th><th valign="top">InterviewBit</th></tr>
 <tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview</td><td valign="top">Es una plataforma que ofrece recursos y entrenamiento para ayudar a los programadores a prepararse para entrevistas técnicas. </td><td valign="top">Es una plataforma en línea para codificar la preparación de entrevistas. El servicio proporciona problemas algorítmicos y de codificación destinados a que los usuarios practiquen la codificación.</td><td valign="top">HackerRank es una empresa de tecnología que se enfoca en desafíos de programación competitivos tanto para consumidores como para empresas. Los desarrolladores compiten escribiendo programas de acuerdo con las especificaciones proporcionadas</td><td valign="top">Es una plataforma para aprender las habilidades que necesita para trabajos tecnológicos. Le ayudamos a pulir sus habilidades y prepararse para el trabajo, ya sea un recién graduado universitario o un profesional en activo</td></tr>
 <tr><td valign="top">Ventaja competitiva ¿Que valor ofrecemos a los clientes?</td><td valign="top"><p>La plataforma podría incluir preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos y tutoriales sobre temas comunes de entrevistas. Además, tendriamos empresas de tecnología para ofrecer contenido exclusivo y oportunidades de reclutamiento para los usuarios de la plataforma. Ofrecemos membresías premium que brindan acceso a contenido adicional, sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas.</p><p></p></td><td valign="top">ofrece una plataforma integral que combina preguntas de codificación práctica, discusiones comunitarias, entrenamiento para entrevistas técnicas y características avanzadas para ayudar a los desarrolladores a mejorar sus habilidades de codificación y prepararse para entrevistas en empresas de tecnología</td><td valign="top">ofrece una plataforma integral que combina desafíos de codificación, entrenamiento para entrevistas técnicas, eventos de programación, certificaciones de habilidades técnicas y herramientas de análisis para ayudar a los desarrolladores a mejorar sus habilidades y avanzar en sus carreras en tecnología.</td><td valign="top">InterviewBit ofrece a sus clientes una plataforma integral para prepararse para entrevistas técnicas, mejorar sus habilidades de programación, recibir orientación profesional y acceder a oportunidades laborales en la industria tecnológica.</td></tr>
 <tr><td valign="top">Plan de marketing</td><td valign="top">Mercado objetivo</td><td valign="top">El mercado objetivo serían programadores y profesionales de tecnología que estén buscando empleo en empresas del sector tecnológico. Este mercado incluiría a estudiantes universitarios de carreras relacionadas con la informática, ingeniería informática o campos afines, así como a profesionales con experiencia que estén buscando cambiar de trabajo o avanzar en sus carreras dentro de la industria tecnológica.</td><td valign="top"><p>Candidatos en búsqueda de empleo</p><p>Empresas que buscan contratar empleados</p></td><td valign="top"><p>Desarrolladores, entusiastas de la programación</p><p>Reclutadores  empresas en busca de talento tecnológico</p><p>interesados en mejorar sus habilidades de programación, prepararse para entrevistas técnicas y encontrar oportunidades laborales en el campo de la tecnología.</p></td><td valign="top"><p>estudiantes y profesionales de tecnología que buscan mejorar sus habilidades de codificación y prepararse para entrevistas técnicas </p><p></p><p></p><p></p><p></p><p></p></td></tr>
@@ -128,7 +127,7 @@ Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y ses
 
 - 2.2.2. Registro de entrevistas
 
-| Entrevistado N°6: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+| Entrevistado N°1: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Andrés Valle                                               |
 | **Edad:**                      | 32                                                         |
@@ -137,6 +136,29 @@ Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y ses
 | **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
 | **Momento de inicio:**         | 0:04                                                       |
 | **Duración:**                  | 3:50                                                       |
+
+
+| Entrevistado N°2: Marcelo Poggi | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Marcelo Poggi                                             |
+| **Edad:**                      | 20                                                        |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | ciencias de la computacion                                     |
+| **Entrevista:**                | [Link]( https://s21.aconvert.com/convert/p3r68-cdx67/upbbj-6fgmc.mp4) |
+| **Momento de inicio:**         | 0:05                                                       |
+| **Duración:**                  | 7:32                                                       |
+
+
+| Entrevistado N°3: Alex Avila | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Alex Avila                                             |
+| **Edad:**                      | 19                                                       |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Estudiante de ingieniria de software                                 |
+| **Entrevista:**                | [Link](  https://s17.aconvert.com/convert/p3r68-cdx67/p74mx-5ve2z.mp4) |
+)       |
+| **Momento de inicio:**         | 0:05                                                       |
+| **Duración:**                  | 6:40                                                      |
 
 
 
