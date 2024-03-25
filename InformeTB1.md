@@ -1,5 +1,3 @@
-![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/58d653de-9791-46c1-be22-05082595750d)
-
 # Universidad Peruana de Ciencias Aplicadas
 ### INFORME DEL TRABAJO 1 (TB1)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
