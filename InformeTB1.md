@@ -192,6 +192,7 @@ Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y ses
 
 - 2.3. Needfinding
 - 2.3.1. User Personas
+  
   Segmento objetivo 1: Leticia Cassanova
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e9cf2616-00fc-422a-9803-0abbff8c61e6)
   
@@ -234,10 +235,13 @@ Segmento objetivo 2: Maria Sanchez
   
 
 - 2.3.4. Empathy Mapping
+
   Segmento objetivo 1: Leticia Cassanova
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/151f3f54-a908-40d2-8711-9263ef504031)
-  
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/21a6b83d-675b-4cf9-bfca-103064d65287)
+
   Segmento objetivo 2: Maria Sanchez
+
+  
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/258d5100-da3e-4198-8497-c4eea2ff7418)
 
 - 2.3.5. As-is Scenario Mapping
