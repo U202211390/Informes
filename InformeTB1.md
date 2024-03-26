@@ -60,15 +60,15 @@
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
  
-    *CodePace* es una plataforma especializada en la preparación de programadores para entrevistas técnicas en empresas de tecnología. Nos dedicamos a ofrecer una variedad de recursos y entrenamiento diseñados para ayudar a los usuarios a mejorar sus habilidades de codificación, prepararse para entrevistas y asegurar trabajos en la industria tecnológica.
+    *CodePace* es una plataforma especializada en la preparación de programadores para entrevistas técnicas en empresas de tecnología. Nos dedicamos a ofrecer una variedad de recursos y entrenamiento diseñados para ayudar a los usuarios a mejorar sus habilidades de                 codificación, prepararse para entrevistas y asegurar trabajos en la industria tecnológica.
 
-Con un enfoque centrado en el usuario, nuestra plataforma proporciona una experiencia integral que abarca desde preguntas frecuentes de entrevistas hasta ejercicios de codificación práctica y simulacros de entrevistas en vivo con expertos. Además, colaboramos estrechamente con empresas de tecnología para ofrecer contenido exclusivo y oportunidades de reclutamiento para nuestros usuarios.
+    Con un enfoque centrado en el usuario, nuestra plataforma proporciona una experiencia integral que abarca desde preguntas frecuentes de entrevistas hasta ejercicios de codificación práctica y simulacros de entrevistas en vivo con expertos. Además, colaboramos                  estrechamente con empresas de tecnología para ofrecer contenido exclusivo y oportunidades de reclutamiento para nuestros usuarios.
 
-**Misión:**
-Nuestra misión en CodePace es brindar a los programadores las herramientas y el conocimiento necesarios para tener éxito en sus entrevistas técnicas y carreras profesionales en la industria tecnológica. Nos esforzamos por ser el compañero de confianza de cada usuario en su viaje hacia el éxito laboral en tecnología.
+    **Misión:**
+    Nuestra misión en CodePace es brindar a los programadores las herramientas y el conocimiento necesarios para tener éxito en sus entrevistas técnicas y carreras profesionales en la industria tecnológica. Nos esforzamos por ser el compañero de confianza de cada usuario en       su viaje hacia el éxito laboral en tecnología.
 
-**Visión:**
-En *CodePace*, visualizamos un futuro donde cada programador tenga acceso a recursos de calidad y entrenamiento efectivo para prepararse para entrevistas técnicas y avanzar en sus carreras en la industria tecnológica. Nos dedicamos a ser líderes en la preparación para entrevistas técnicas, impulsando el crecimiento y la excelencia en la comunidad de desarrolladores a nivel mundial.
+    **Visión:**
+    En *CodePace*, visualizamos un futuro donde cada programador tenga acceso a recursos de calidad y entrenamiento efectivo para prepararse para entrevistas técnicas y avanzar en sus carreras en la industria tecnológica. Nos dedicamos a ser líderes en la preparación para         entrevistas técnicas, impulsando el crecimiento y la excelencia en la comunidad de desarrolladores a nivel mundial.
 
 
   - 1.1.2. Perfiles de integrantes del equipo
@@ -84,123 +84,123 @@ En *CodePace*, visualizamos un futuro donde cada programador tenga acceso a recu
 - 1.2. Solution Profile
   - 1.2.1. Antecedentes y problemática
   
-    Para comprender las necesidades de nuestros usuarios universitarios en el proyecto GetWork, hemos realizado un estudio utilizando la técnica 5W's & 2H's. Esta metodología, ampliamente utilizada en la gestión empresarial, nos ha permitido identificar los siguientes aspectos cruciales:
+    Para comprender las necesidades de nuestros usuarios universitarios en el proyecto GetWork, hemos realizado un estudio utilizando la técnica 5W's & 2H's. Esta metodología, ampliamente utilizada en la gestión empresarial, nos ha permitido identificar los siguientes             aspectos cruciales:
 
-**¿Cuáles son las 5W?**
-What (Qué)
+    **¿Cuáles son las 5W?**
+    What (Qué)
 
-El problema que abordamos es la falta de preparación adecuada de los estudiantes universitarios para enfrentarse a entrevistas técnicas y el mercado laboral en el ámbito de la tecnología. Muchos graduados carecen de las habilidades técnicas, de resolución de problemas y de comunicación necesarias para destacar en este competitivo campo. La insuficiente preparación limita sus oportunidades laborales y puede afectar negativamente su progreso profesional.
+    El problema que abordamos es la falta de preparación adecuada de los estudiantes universitarios para enfrentarse a entrevistas técnicas y el mercado laboral en el ámbito de la tecnología. Muchos graduados carecen de las habilidades técnicas, de resolución de problemas y       de comunicación necesarias para destacar en este competitivo campo. La insuficiente preparación limita sus oportunidades laborales y puede afectar negativamente su progreso profesional.
 
-**Who (Quién)**
+    **Who (Quién)**
 
-Este problema afecta a estudiantes universitarios de diversas disciplinas y niveles académicos que aspiran a ingresar al mercado laboral tecnológico. Tanto profesores como estudiantes se ven directamente afectados por la falta de preparación para enfrentar las exigencias específicas de la industria.
+    Este problema afecta a estudiantes universitarios de diversas disciplinas y niveles académicos que aspiran a ingresar al mercado laboral tecnológico. Tanto profesores como estudiantes se ven directamente afectados por la falta de preparación para enfrentar las exigencias      específicas de la industria.
 
-**When (Cuándo)**
+    **When (Cuándo)**
 
-El problema se manifiesta en el momento en que los estudiantes universitarios están buscando oportunidades laborales y se enfrentan a entrevistas técnicas. La falta de preparación adecuada puede hacer que pierdan oportunidades valiosas de empleo y retrasar su inserción en el mercado laboral.
+    El problema se manifiesta en el momento en que los estudiantes universitarios están buscando oportunidades laborales y se enfrentan a entrevistas técnicas. La falta de preparación adecuada puede hacer que pierdan oportunidades valiosas de empleo y retrasar su inserción en     el mercado laboral.
 
-**Where (Dónde)**
+    **Where (Dónde)**
 
-El problema está presente en todo el proceso de búsqueda de empleo, desde la elaboración de currículums hasta la participación en entrevistas, tanto en entornos físicos como virtuales. La falta de habilidades técnicas y de preparación puede obstaculizar la capacidad de los estudiantes para destacar en cualquier contexto laboral.
+    El problema está presente en todo el proceso de búsqueda de empleo, desde la elaboración de currículums hasta la participación en entrevistas, tanto en entornos físicos como virtuales. La falta de habilidades técnicas y de preparación puede obstaculizar la capacidad de        los estudiantes para destacar en cualquier contexto laboral.
 
-**Why (Por qué)**
+    **Why (Por qué)**
 
-La causa fundamental del problema radica en la falta de acceso a recursos y entrenamiento especializado que prepare a los estudiantes universitarios para las demandas específicas del mercado laboral tecnológico. Aunque las instituciones educativas pueden brindar una base sólida en conceptos teóricos, muchas veces no ofrecen una preparación práctica y específica para las habilidades y competencias necesarias en la industria.
+    La causa fundamental del problema radica en la falta de acceso a recursos y entrenamiento especializado que prepare a los estudiantes universitarios para las demandas específicas del mercado laboral tecnológico. Aunque las instituciones educativas pueden brindar una base      sólida en conceptos teóricos, muchas veces no ofrecen una preparación práctica y específica para las habilidades y competencias necesarias en la industria.
 
-**¿Cuáles son las 2H?**
-**How (Cómo)**
+    **¿Cuáles son las 2H?**
+    **How (Cómo)**
 
-Nuestros usuarios recurren a GetWork cuando desean mejorar sus habilidades técnicas, prepararse para entrevistas técnicas y asegurar empleos en la industria tecnológica. Descubren nuestra plataforma a través de campañas de promoción en línea, recomendaciones de amigos, y referencias de instituciones educativas y empresas asociadas. GetWork ofrece una amplia gama de recursos y herramientas, incluyendo preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos, tutoriales sobre temas comunes de entrevistas y contenido exclusivo proporcionado por empresas de tecnología.
+    Nuestros usuarios recurren a GetWork cuando desean mejorar sus habilidades técnicas, prepararse para entrevistas técnicas y asegurar empleos en la industria tecnológica. Descubren nuestra plataforma a través de campañas de promoción en línea, recomendaciones de amigos, y      referencias de instituciones educativas y empresas asociadas. GetWork ofrece una amplia gama de recursos y herramientas, incluyendo preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos, tutoriales sobre       temas comunes de entrevistas y contenido exclusivo proporcionado por empresas de tecnología.
 
-**How much (Cuánto)**
+    **How much (Cuánto)**
 
-En la actualidad, el mercado laboral tecnológico experimenta un crecimiento constante y una demanda creciente de profesionales con habilidades técnicas sólidas. Se espera que esta tendencia continúe en los próximos años, lo que respalda la importancia y la viabilidad de plataformas como GetWork. El volumen de datos almacenados en la nube sigue aumentando exponencialmente, reflejando la necesidad continua de soluciones seguras y confiables para la preparación laboral en tecnología. Este crecimiento y demanda ofrecen un amplio campo de oportunidades para la expansión y el desarrollo futuro de GetWork.
+    En la actualidad, el mercado laboral tecnológico experimenta un crecimiento constante y una demanda creciente de profesionales con habilidades técnicas sólidas. Se espera que esta tendencia continúe en los próximos años, lo que respalda la importancia y la viabilidad de       plataformas como GetWork. El volumen de datos almacenados en la nube sigue aumentando exponencialmente, reflejando la necesidad continua de soluciones seguras y confiables para la preparación laboral en tecnología. Este crecimiento y demanda ofrecen un amplio campo de          oportunidades para la expansión y el desarrollo futuro de GetWork.
 
-  - 1.2.2. Lean UX Process
+    - 1.2.2. Lean UX Process
 
-    El proceso Lean UX Process es una estrategia diseñada para optimizar el desarrollo de nuestro producto, centrándose en principios esenciales como la validación, el pensamiento y la acción. Siguiendo esta filosofía, hemos creado nuestro propio proceso Lean UX, que se fundamenta en cuatro elementos clave: declaraciones de problemas, suposiciones, enunciados de hipótesis y lienzo.
+    El proceso Lean UX Process es una estrategia diseñada para optimizar el desarrollo de nuestro producto, centrándose en principios esenciales como la validación, el pensamiento y la acción. Siguiendo esta filosofía, hemos creado nuestro propio proceso Lean UX, que se           fundamenta en cuatro elementos clave: declaraciones de problemas, suposiciones, enunciados de hipótesis y lienzo.
     - 1.2.2.1. Lean UX Problem Statements
 
-Con la plataforma de preparación para entrevistas técnicas, nos enfrentamos a un desafío crítico en la seguridad de los datos y la confidencialidad de la información personal y profesional de nuestros usuarios. Es fundamental abordar esta preocupación para garantizar la confianza de los programadores que utilizan nuestra plataforma.
+    Con la plataforma de preparación para entrevistas técnicas, nos enfrentamos a un desafío crítico en la seguridad de los datos y la confidencialidad de la información personal y profesional de nuestros usuarios. Es fundamental abordar esta preocupación para garantizar la       confianza de los programadores que utilizan nuestra plataforma.
 
-Para enfrentar esta incertidumbre y ofrecer una solución confiable, hemos desarrollado un proceso basado en la metodología Lean UX, adaptado específicamente a las necesidades de nuestro proyecto.
+    Para enfrentar esta incertidumbre y ofrecer una solución confiable, hemos desarrollado un proceso basado en la metodología Lean UX, adaptado específicamente a las necesidades de nuestro proyecto.
 
-En primer lugar, identificamos claramente el problema principal que enfrentan nuestros usuarios: la preocupación por la seguridad y la privacidad de sus datos mientras utilizan nuestra plataforma para prepararse para entrevistas técnicas. Esta preocupación se convierte en nuestra declaración de problema, lo que nos permite comprender a fondo las necesidades y preocupaciones de nuestros usuarios.
+    En primer lugar, identificamos claramente el problema principal que enfrentan nuestros usuarios: la preocupación por la seguridad y la privacidad de sus datos mientras utilizan nuestra plataforma para prepararse para entrevistas técnicas. Esta preocupación se convierte en     nuestra declaración de problema, lo que nos permite comprender a fondo las necesidades y preocupaciones de nuestros usuarios.
 
-A continuación, formulamos suposiciones sobre cómo podríamos abordar este problema y mejorar la seguridad de los datos para nuestros usuarios. Estas suposiciones nos ayudan a generar hipótesis sobre las posibles soluciones que podríamos implementar para garantizar la confidencialidad de la información personal y profesional de nuestros usuarios.
+    A continuación, formulamos suposiciones sobre cómo podríamos abordar este problema y mejorar la seguridad de los datos para nuestros usuarios. Estas suposiciones nos ayudan a generar hipótesis sobre las posibles soluciones que podríamos implementar para garantizar la          confidencialidad de la información personal y profesional de nuestros usuarios.
 
-Una vez que tenemos nuestras hipótesis, las sometemos a pruebas y validación utilizando diversas técnicas, como pruebas de penetración, auditorías de seguridad y evaluaciones de riesgos. Esto nos permite recopilar datos reales y retroalimentación de nuestros usuarios para evaluar la efectividad de nuestras soluciones propuestas en términos de seguridad de datos.
+    Una vez que tenemos nuestras hipótesis, las sometemos a pruebas y validación utilizando diversas técnicas, como pruebas de penetración, auditorías de seguridad y evaluaciones de riesgos. Esto nos permite recopilar datos reales y retroalimentación de nuestros usuarios para     evaluar la efectividad de nuestras soluciones propuestas en términos de seguridad de datos.
 
-Finalmente, basándonos en los resultados de nuestras pruebas y validación, iteramos en nuestro diseño y ejecución para mejorar continuamente la seguridad y la confidencialidad de la información de nuestros usuarios. Esto nos permite desarrollar una plataforma de preparación para entrevistas técnicas que nuestros usuarios puedan utilizar con total confianza en la protección de sus datos personales y profesionales.
+    Finalmente, basándonos en los resultados de nuestras pruebas y validación, iteramos en nuestro diseño y ejecución para mejorar continuamente la seguridad y la confidencialidad de la información de nuestros usuarios. Esto nos permite desarrollar una plataforma de               preparación para entrevistas técnicas que nuestros usuarios puedan utilizar con total confianza en la protección de sus datos personales y profesionales.
 
   - 1.2.2.2. Lean UX Assumptions
 
-**Business Assumptions**
+  **Business Assumptions**
+  
+  Creemos que existe una necesidad en el mercado de una plataforma que ayude a los programadores a prepararse de manera efectiva para las entrevistas técnicas en empresas de tecnología.
+  
+  Esta necesidad puede ser abordada mediante el desarrollo de una plataforma que ofrezca recursos de calidad, como preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo con expertos.
+  
+  Nuestros clientes iniciales serán programadores y desarrolladores de software que estén buscando activamente oportunidades laborales en empresas de tecnología.
+  
+  El valor principal que nuestros clientes desean de nuestro servicio es poder prepararse de manera adecuada y eficiente para las entrevistas técnicas, aumentando así sus posibilidades de éxito en el proceso de contratación.
+  
+  Los clientes también obtendrán beneficios adicionales, como acceso a contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento a través de la plataforma.
+  
+  Planeamos adquirir la mayoría de nuestros clientes mediante estrategias de marketing digital dirigidas a programadores y desarrolladores interesados en mejorar sus habilidades y oportunidades laborales.
+  
+  Generaremos ingresos a través de membresías premium que brinden acceso a contenido adicional, sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas, además de comisiones por oportunidades de reclutamiento.
+  
+  Nuestra competencia principal serán otras plataformas de preparación para entrevistas técnicas, así como recursos en línea disponibles gratuitamente.
+  
+  Nos diferenciaremos de la competencia al ofrecer contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento integradas en la plataforma.
+  
+  El mayor riesgo para nuestro servicio es que el segmento objetivo no perciba el valor agregado de nuestra plataforma o no esté dispuesto a invertir en su preparación para entrevistas técnicas.
+  
+  Resolveremos este riesgo mediante una estrategia de marketing efectiva que resalte los beneficios y ventajas de nuestra plataforma, así como mediante una continua mejora y actualización de nuestro contenido y servicios.
 
-Creemos que existe una necesidad en el mercado de una plataforma que ayude a los programadores a prepararse de manera efectiva para las entrevistas técnicas en empresas de tecnología.
-
-Esta necesidad puede ser abordada mediante el desarrollo de una plataforma que ofrezca recursos de calidad, como preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo con expertos.
-
-Nuestros clientes iniciales serán programadores y desarrolladores de software que estén buscando activamente oportunidades laborales en empresas de tecnología.
-
-El valor principal que nuestros clientes desean de nuestro servicio es poder prepararse de manera adecuada y eficiente para las entrevistas técnicas, aumentando así sus posibilidades de éxito en el proceso de contratación.
-
-Los clientes también obtendrán beneficios adicionales, como acceso a contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento a través de la plataforma.
-
-Planeamos adquirir la mayoría de nuestros clientes mediante estrategias de marketing digital dirigidas a programadores y desarrolladores interesados en mejorar sus habilidades y oportunidades laborales.
-
-Generaremos ingresos a través de membresías premium que brinden acceso a contenido adicional, sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas, además de comisiones por oportunidades de reclutamiento.
-
-Nuestra competencia principal serán otras plataformas de preparación para entrevistas técnicas, así como recursos en línea disponibles gratuitamente.
-
-Nos diferenciaremos de la competencia al ofrecer contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento integradas en la plataforma.
-
-El mayor riesgo para nuestro servicio es que el segmento objetivo no perciba el valor agregado de nuestra plataforma o no esté dispuesto a invertir en su preparación para entrevistas técnicas.
-
-Resolveremos este riesgo mediante una estrategia de marketing efectiva que resalte los beneficios y ventajas de nuestra plataforma, así como mediante una continua mejora y actualización de nuestro contenido y servicios.
-
-**User Assumptions**
-
-¿Quién es el usuario?
-Los usuarios principales son programadores y desarrolladores de software que buscan activamente oportunidades laborales en empresas de tecnología.
-
-¿Qué problemas enfrenta nuestro producto y cómo los resolveremos?
-Uno de los problemas actuales del producto es la posible falta de acceso a recursos de calidad para prepararse adecuadamente para las entrevistas técnicas. Esto se resolverá mediante la incorporación de contenido exclusivo de empresas de tecnología y sesiones de tutoría personalizada.
-
-¿Qué características son importantes?
-Las características clave incluyen preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos, así como acceso a contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento integradas en la plataforma.
-
-¿Dónde encaja nuestro producto en la vida laboral del usuario?
-Nuestro producto encaja en la preparación y mejora de las habilidades de los usuarios para entrevistas técnicas, lo que aumenta sus oportunidades de obtener empleo en empresas de tecnología.
-
-¿Cuándo y cómo se usa nuestro producto?
-El producto será utilizado cuando los usuarios estén preparándose para entrevistas técnicas en empresas de tecnología. Se accederá a la plataforma para practicar ejercicios de codificación, revisar preguntas frecuentes y participar en simulacros de entrevistas en vivo.
-
-¿Cómo debe verse y comportarse nuestro producto?
-El producto debe tener una interfaz intuitiva y fácil de usar, con acceso rápido y sencillo a todos los recursos de preparación. Además, debe garantizar la privacidad y seguridad de los datos de los usuarios, así como ofrecer una experiencia personalizada y motivadora para el aprendizaje.
+  **User Assumptions**
+  
+  ¿Quién es el usuario?
+  Los usuarios principales son programadores y desarrolladores de software que buscan activamente oportunidades laborales en empresas de tecnología.
+  
+  ¿Qué problemas enfrenta nuestro producto y cómo los resolveremos?
+  Uno de los problemas actuales del producto es la posible falta de acceso a recursos de calidad para prepararse adecuadamente para las entrevistas técnicas. Esto se resolverá mediante la incorporación de contenido exclusivo de empresas de tecnología y sesiones de tutoría personalizada.
+  
+  ¿Qué características son importantes?
+  Las características clave incluyen preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos, así como acceso a contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento integradas en la plataforma.
+  
+  ¿Dónde encaja nuestro producto en la vida laboral del usuario?
+  Nuestro producto encaja en la preparación y mejora de las habilidades de los usuarios para entrevistas técnicas, lo que aumenta sus oportunidades de obtener empleo en empresas de tecnología.
+  
+  ¿Cuándo y cómo se usa nuestro producto?
+  El producto será utilizado cuando los usuarios estén preparándose para entrevistas técnicas en empresas de tecnología. Se accederá a la plataforma para practicar ejercicios de codificación, revisar preguntas frecuentes y participar en simulacros de entrevistas en vivo.
+  
+  ¿Cómo debe verse y comportarse nuestro producto?
+  El producto debe tener una interfaz intuitiva y fácil de usar, con acceso rápido y sencillo a todos los recursos de preparación. Además, debe garantizar la privacidad y seguridad de los datos de los usuarios, así como ofrecer una experiencia personalizada y motivadora para el aprendizaje.
 
 
   - 1.2.2.3. Lean UX Hypothesis Statements
 
-**Hypothesis Statement 01:**
-**Creemos**  que los programadores y desarrolladores estarán dispuestos a adoptar nuestra plataforma de preparación para entrevistas técnicas para mejorar sus habilidades y aumentar sus posibilidades de éxito en las entrevistas de trabajo en empresas de tecnología.
-**Sabremos** que hemos tenido éxito.
-**Cuando** la tasa de adopción de la plataforma entre los usuarios objetivo alcance al menos el 80% dentro de los primeros tres meses posteriores al lanzamiento.
-
-**Hypothesis Statement 02:**
-**Creemos** que nuestra plataforma facilitará una mejor preparación para las entrevistas técnicas al proporcionar recursos de calidad y simulacros de entrevistas en vivo.
-**Sabremos** que hemos tenido éxito.
-**Cuando** se observe un aumento del 30% en la tasa de éxito de los usuarios en las entrevistas técnicas después de utilizar nuestra plataforma durante al menos un mes.
-
-**Hypothesis Statement 03:**
-**Creemos** que al ofrecer contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento, nuestra plataforma aumentará la satisfacción y la confianza de los usuarios en su preparación para entrevistas técnicas.
-**Sabremos** que hemos tenido éxito.
-**Cuando** al menos el 70% de los usuarios que hayan utilizado las oportunidades de reclutamiento a través de nuestra plataforma informen haber tenido una experiencia positiva y útil.
-
-**Hypothesis Statement 04:**
-**Creemos** que al proporcionar sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas, aumentaremos la retención de usuarios y la satisfacción del cliente.
-**Sabremos** que hemos tenido éxito.
-**Cuando** la tasa de retención de usuarios de la membresía premium supere el 60% en los primeros seis meses de su lanzamiento.
+  **Hypothesis Statement 01:**
+  **Creemos**  que los programadores y desarrolladores estarán dispuestos a adoptar nuestra plataforma de preparación para entrevistas técnicas para mejorar sus habilidades y aumentar sus posibilidades de éxito en las entrevistas de trabajo en empresas de tecnología.
+  **Sabremos** que hemos tenido éxito.
+  **Cuando** la tasa de adopción de la plataforma entre los usuarios objetivo alcance al menos el 80% dentro de los primeros tres meses posteriores al lanzamiento.
+  
+  **Hypothesis Statement 02:**
+  **Creemos** que nuestra plataforma facilitará una mejor preparación para las entrevistas técnicas al proporcionar recursos de calidad y simulacros de entrevistas en vivo.
+  **Sabremos** que hemos tenido éxito.
+  **Cuando** se observe un aumento del 30% en la tasa de éxito de los usuarios en las entrevistas técnicas después de utilizar nuestra plataforma durante al menos un mes.
+  
+  **Hypothesis Statement 03:**
+  **Creemos** que al ofrecer contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento, nuestra plataforma aumentará la satisfacción y la confianza de los usuarios en su preparación para entrevistas técnicas.
+  **Sabremos** que hemos tenido éxito.
+  **Cuando** al menos el 70% de los usuarios que hayan utilizado las oportunidades de reclutamiento a través de nuestra plataforma informen haber tenido una experiencia positiva y útil.
+  
+  **Hypothesis Statement 04:**
+  **Creemos** que al proporcionar sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas, aumentaremos la retención de usuarios y la satisfacción del cliente.
+  **Sabremos** que hemos tenido éxito.
+  **Cuando** la tasa de retención de usuarios de la membresía premium supere el 60% en los primeros seis meses de su lanzamiento.
 
   - 1.2.2.4. Lean UX Canvas
 
