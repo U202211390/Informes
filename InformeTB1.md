@@ -4,9 +4,9 @@
 
 **Curso:** Aplicaciones Web
 
-**Sección:** SW54
+**Sección:** SW56
 
-**Profesor:** Efrain Bautista
+**Profesor:** Efraín Ricardo Bautista Ubillús
 
 **Carrera:** Ingeniería de Software
 
@@ -262,7 +262,8 @@ Objetivo: Facilitar su transición al mercado laboral y obtener empleo en empres
 ### Capítulo II: Requirements Elicitation & Analysis
 
   - 2.1.1. Análisis competitivo
-  - LeetCode: Es una plataforma en línea para que los programadores practiquen sus habilidades de codificación a través de una amplia gama de preguntas de entrevistas técnicas.
+
+LeetCode: Es una plataforma en línea para que los programadores practiquen sus habilidades de codificación a través de una amplia gama de preguntas de entrevistas técnicas.
 Ofrece una variedad de preguntas clasificadas por dificultad y tema, así como discusiones comunitarias y soluciones para cada pregunta y proporciona una amplia gama de recursos gratuitos y opciones de suscripción premium para acceder a contenido adicional y características avanzadas.
 
 HackerRank: Es una plataforma para que los programadores mejoren sus habilidades de codificación y se preparen para entrevistas técnicas.
@@ -290,9 +291,11 @@ Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y ses
 
 
 - 2.2. Entrevistas
-- Las entrevistas van dirigidas a desarrolladores, estudiantes y programadores ya que son el público objetivo principal de la plataforma, entrevistarlos permitirá comprender sus necesidades específicas en términos de preparación para entrevistas técnicas, qué recursos encuentran más útiles, qué áreas considera más desafiantes y qué características valorarán en la plataforma.
+  
+Las entrevistas van dirigidas a desarrolladores, estudiantes y programadores ya que son el público objetivo principal de la plataforma, entrevistarlos permitirá comprender sus necesidades específicas en términos de preparación para entrevistas técnicas, qué recursos encuentran más útiles, qué áreas considera más desafiantes y qué características valorarán en la plataforma.
 
   - 2.2.1. Diseño de entrevistas
+
  ¿Cuáles son los mayores desafíos que enfrentas al prepararte para entrevistas técnicas en empresas de tecnología?
 
 ¿Qué recursos o plataformas has utilizado anteriormente para prepararte para entrevistas técnicas? ¿Qué aspectos de estos recursos te resultaron más útiles y qué aspectos consideras que podrían mejorarse?
