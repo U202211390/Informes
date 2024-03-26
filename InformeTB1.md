@@ -437,6 +437,14 @@ Segmento objetivo 2: Maria Sanchez
 
 - 2.3.5. As-is Scenario Mapping
 
+  Segmento objetivo 1: Leticia Cassanova
+
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b0ebab82-8db5-4940-816c-dcbae8207719)
+
+
+  Segmento objetivo 2: Maria Sanchez
+
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e10a7b87-9f2c-4cd3-81c4-9c140353212a)
 
 - 2.4. Ubiquitous Language
 
