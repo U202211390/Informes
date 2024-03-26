@@ -2,7 +2,7 @@
 ### INFORME DEL TRABAJO 1 (TB1)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
 
-**Curso:** Desarrollo de Aplicaciones Open Source
+**Curso:** Aplicaciones Web
 
 **Sección:** SW54
 
@@ -59,6 +59,17 @@
 ### Capítulo I: Introducción
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
+ 
+    *CodePace* es una plataforma especializada en la preparación de programadores para entrevistas técnicas en empresas de tecnología. Nos dedicamos a ofrecer una variedad de recursos y entrenamiento diseñados para ayudar a los usuarios a mejorar sus habilidades de codificación, prepararse para entrevistas y asegurar trabajos en la industria tecnológica.
+
+Con un enfoque centrado en el usuario, nuestra plataforma proporciona una experiencia integral que abarca desde preguntas frecuentes de entrevistas hasta ejercicios de codificación práctica y simulacros de entrevistas en vivo con expertos. Además, colaboramos estrechamente con empresas de tecnología para ofrecer contenido exclusivo y oportunidades de reclutamiento para nuestros usuarios.
+
+**Misión:**
+Nuestra misión en CodePace es brindar a los programadores las herramientas y el conocimiento necesarios para tener éxito en sus entrevistas técnicas y carreras profesionales en la industria tecnológica. Nos esforzamos por ser el compañero de confianza de cada usuario en su viaje hacia el éxito laboral en tecnología.
+
+**Visión:**
+En *CodePace*, visualizamos un futuro donde cada programador tenga acceso a recursos de calidad y entrenamiento efectivo para prepararse para entrevistas técnicas y avanzar en sus carreras en la industria tecnológica. Nos dedicamos a ser líderes en la preparación para entrevistas técnicas, impulsando el crecimiento y la excelencia en la comunidad de desarrolladores a nivel mundial.
+
 
   - 1.1.2. Perfiles de integrantes del equipo
 - 1.2. Solution Profile
