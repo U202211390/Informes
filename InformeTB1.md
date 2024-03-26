@@ -72,14 +72,191 @@ En *CodePace*, visualizamos un futuro donde cada programador tenga acceso a recu
 
 
   - 1.1.2. Perfiles de integrantes del equipo
+
+| Integrantes                        | Descripción del perfil |
+|-----------------------------------|--------------|
+|Elias Yauri Paucar (u202211817)<br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/7cc1bfac-2b67-43eb-bb3a-140739bb4b8c" alt="Elias Yauri" style="width: 200px;">|Mi nombre es Elias Yauri Paucar, tengo 18 años, soy estudiante de Ing. De software en la UPC y actualmente estoy en 5 ciclo de mi carrera. Me considero una persona muy versátil a cualquier circunstancia o problema que se me presente, me logro acoplar y congeniar fácilmente con un equipo. Me comprometo a dar mi mayor esfuerzo en realizar todos los puntos y actividades con respecto a este proyecto.|
+| Jair Castillo (u202211390)<br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/f96f45ff-da0d-4adf-b7a8-92382705d282" alt="Jair Castillo" style="width: 200px;">|Mi nombre es Jair Castillo, estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC.Poseo habilidades intermedias en el lenguaje de programación C++. Soy una persona atenta y responsable, con capacidad para adaptarme de manera efectiva a diversos escenarios y desafíos que puedan surgir.|
+| Jeremy Joel Quispe Andia (u202216279) <br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/8640c1f6-2922-480b-88d3-be4f0a8ec94f" alt="Jeremy Quispe" style="width: 200px;"> |Mi nombre es Jeremy Quispe, estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC. Decidí estudiar esta carrera debido a que me agrada mucho poder crear soluciones tecnológicas y cómo estás podrían contribuir de manera positiva a la sociedad. Por ello, agradezco a la universidad por brindarme los recursos para poder superarme cada día y adquiriendo grandes conocimientos.|
+| Andrea Milagros Cabanillas Gora (u202211711) <br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/f800cd02-e527-4056-9807-e61dbacd264b" alt="Andrea Cabanillas" style="width: 200px;">| Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta diseñar paginas web, dibujar y bailar marinera.   |
+| Sebastian Nicolas Cachis Gonzales (u202210846) <br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/552d3d92-0a4d-41d8-b90e-3ec504d56c55" alt="Sebastian Cachis" style="width: 200px;">| Tengo 19 años, soy alumno de Ingeniería de Software en la UPC en mi quinto ciclo. Me considero una persona proactiva, organizada, meticulosa y muy enfocada en mis estudios, tanto grupales como individuales. Tengo facilidad para entender y ejemplificar los distintos temas que vemos, teniendo soltura para explicar.  |
+| Adriano Sebastian Cruz Palomino (u202211711) <br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/4ea280b1-1aa7-485f-ab81-05404307bf22" alt="Adriano Cruz" style="width: 200px;">|Mi nombre es Adriano Sebastian Cruz Palomino, tengo 19 años, soy alumno de Ingeniería de Software en la UPC, actualmente estoy cursando el 5to ciclo. Soy una persona curiosa, responsable, y comprometida con mis estudios, siempre busco aprender más y mejorar mis habilidades.  |
 - 1.2. Solution Profile
   - 1.2.1. Antecedentes y problemática
+  
+    Para comprender las necesidades de nuestros usuarios universitarios en el proyecto GetWork, hemos realizado un estudio utilizando la técnica 5W's & 2H's. Esta metodología, ampliamente utilizada en la gestión empresarial, nos ha permitido identificar los siguientes aspectos cruciales:
+
+**¿Cuáles son las 5W?**
+What (Qué)
+
+El problema que abordamos es la falta de preparación adecuada de los estudiantes universitarios para enfrentarse a entrevistas técnicas y el mercado laboral en el ámbito de la tecnología. Muchos graduados carecen de las habilidades técnicas, de resolución de problemas y de comunicación necesarias para destacar en este competitivo campo. La insuficiente preparación limita sus oportunidades laborales y puede afectar negativamente su progreso profesional.
+
+**Who (Quién)**
+
+Este problema afecta a estudiantes universitarios de diversas disciplinas y niveles académicos que aspiran a ingresar al mercado laboral tecnológico. Tanto profesores como estudiantes se ven directamente afectados por la falta de preparación para enfrentar las exigencias específicas de la industria.
+
+**When (Cuándo)**
+
+El problema se manifiesta en el momento en que los estudiantes universitarios están buscando oportunidades laborales y se enfrentan a entrevistas técnicas. La falta de preparación adecuada puede hacer que pierdan oportunidades valiosas de empleo y retrasar su inserción en el mercado laboral.
+
+**Where (Dónde)**
+
+El problema está presente en todo el proceso de búsqueda de empleo, desde la elaboración de currículums hasta la participación en entrevistas, tanto en entornos físicos como virtuales. La falta de habilidades técnicas y de preparación puede obstaculizar la capacidad de los estudiantes para destacar en cualquier contexto laboral.
+
+**Why (Por qué)**
+
+La causa fundamental del problema radica en la falta de acceso a recursos y entrenamiento especializado que prepare a los estudiantes universitarios para las demandas específicas del mercado laboral tecnológico. Aunque las instituciones educativas pueden brindar una base sólida en conceptos teóricos, muchas veces no ofrecen una preparación práctica y específica para las habilidades y competencias necesarias en la industria.
+
+**¿Cuáles son las 2H?**
+**How (Cómo)**
+
+Nuestros usuarios recurren a GetWork cuando desean mejorar sus habilidades técnicas, prepararse para entrevistas técnicas y asegurar empleos en la industria tecnológica. Descubren nuestra plataforma a través de campañas de promoción en línea, recomendaciones de amigos, y referencias de instituciones educativas y empresas asociadas. GetWork ofrece una amplia gama de recursos y herramientas, incluyendo preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos, tutoriales sobre temas comunes de entrevistas y contenido exclusivo proporcionado por empresas de tecnología.
+
+**How much (Cuánto)**
+
+En la actualidad, el mercado laboral tecnológico experimenta un crecimiento constante y una demanda creciente de profesionales con habilidades técnicas sólidas. Se espera que esta tendencia continúe en los próximos años, lo que respalda la importancia y la viabilidad de plataformas como GetWork. El volumen de datos almacenados en la nube sigue aumentando exponencialmente, reflejando la necesidad continua de soluciones seguras y confiables para la preparación laboral en tecnología. Este crecimiento y demanda ofrecen un amplio campo de oportunidades para la expansión y el desarrollo futuro de GetWork.
+
   - 1.2.2. Lean UX Process
+
+    El proceso Lean UX Process es una estrategia diseñada para optimizar el desarrollo de nuestro producto, centrándose en principios esenciales como la validación, el pensamiento y la acción. Siguiendo esta filosofía, hemos creado nuestro propio proceso Lean UX, que se fundamenta en cuatro elementos clave: declaraciones de problemas, suposiciones, enunciados de hipótesis y lienzo.
     - 1.2.2.1. Lean UX Problem Statements
-    - 1.2.2.2. Lean UX Assumptions
-    - 1.2.2.3. Lean UX Hypothesis Statements
-    - 1.2.2.4. Lean UX Canvas
+
+Con la plataforma de preparación para entrevistas técnicas, nos enfrentamos a un desafío crítico en la seguridad de los datos y la confidencialidad de la información personal y profesional de nuestros usuarios. Es fundamental abordar esta preocupación para garantizar la confianza de los programadores que utilizan nuestra plataforma.
+
+Para enfrentar esta incertidumbre y ofrecer una solución confiable, hemos desarrollado un proceso basado en la metodología Lean UX, adaptado específicamente a las necesidades de nuestro proyecto.
+
+En primer lugar, identificamos claramente el problema principal que enfrentan nuestros usuarios: la preocupación por la seguridad y la privacidad de sus datos mientras utilizan nuestra plataforma para prepararse para entrevistas técnicas. Esta preocupación se convierte en nuestra declaración de problema, lo que nos permite comprender a fondo las necesidades y preocupaciones de nuestros usuarios.
+
+A continuación, formulamos suposiciones sobre cómo podríamos abordar este problema y mejorar la seguridad de los datos para nuestros usuarios. Estas suposiciones nos ayudan a generar hipótesis sobre las posibles soluciones que podríamos implementar para garantizar la confidencialidad de la información personal y profesional de nuestros usuarios.
+
+Una vez que tenemos nuestras hipótesis, las sometemos a pruebas y validación utilizando diversas técnicas, como pruebas de penetración, auditorías de seguridad y evaluaciones de riesgos. Esto nos permite recopilar datos reales y retroalimentación de nuestros usuarios para evaluar la efectividad de nuestras soluciones propuestas en términos de seguridad de datos.
+
+Finalmente, basándonos en los resultados de nuestras pruebas y validación, iteramos en nuestro diseño y ejecución para mejorar continuamente la seguridad y la confidencialidad de la información de nuestros usuarios. Esto nos permite desarrollar una plataforma de preparación para entrevistas técnicas que nuestros usuarios puedan utilizar con total confianza en la protección de sus datos personales y profesionales.
+
+  - 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions**
+
+Creemos que existe una necesidad en el mercado de una plataforma que ayude a los programadores a prepararse de manera efectiva para las entrevistas técnicas en empresas de tecnología.
+
+Esta necesidad puede ser abordada mediante el desarrollo de una plataforma que ofrezca recursos de calidad, como preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo con expertos.
+
+Nuestros clientes iniciales serán programadores y desarrolladores de software que estén buscando activamente oportunidades laborales en empresas de tecnología.
+
+El valor principal que nuestros clientes desean de nuestro servicio es poder prepararse de manera adecuada y eficiente para las entrevistas técnicas, aumentando así sus posibilidades de éxito en el proceso de contratación.
+
+Los clientes también obtendrán beneficios adicionales, como acceso a contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento a través de la plataforma.
+
+Planeamos adquirir la mayoría de nuestros clientes mediante estrategias de marketing digital dirigidas a programadores y desarrolladores interesados en mejorar sus habilidades y oportunidades laborales.
+
+Generaremos ingresos a través de membresías premium que brinden acceso a contenido adicional, sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas, además de comisiones por oportunidades de reclutamiento.
+
+Nuestra competencia principal serán otras plataformas de preparación para entrevistas técnicas, así como recursos en línea disponibles gratuitamente.
+
+Nos diferenciaremos de la competencia al ofrecer contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento integradas en la plataforma.
+
+El mayor riesgo para nuestro servicio es que el segmento objetivo no perciba el valor agregado de nuestra plataforma o no esté dispuesto a invertir en su preparación para entrevistas técnicas.
+
+Resolveremos este riesgo mediante una estrategia de marketing efectiva que resalte los beneficios y ventajas de nuestra plataforma, así como mediante una continua mejora y actualización de nuestro contenido y servicios.
+
+**User Assumptions**
+
+¿Quién es el usuario?
+Los usuarios principales son programadores y desarrolladores de software que buscan activamente oportunidades laborales en empresas de tecnología.
+
+¿Qué problemas enfrenta nuestro producto y cómo los resolveremos?
+Uno de los problemas actuales del producto es la posible falta de acceso a recursos de calidad para prepararse adecuadamente para las entrevistas técnicas. Esto se resolverá mediante la incorporación de contenido exclusivo de empresas de tecnología y sesiones de tutoría personalizada.
+
+¿Qué características son importantes?
+Las características clave incluyen preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos, así como acceso a contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento integradas en la plataforma.
+
+¿Dónde encaja nuestro producto en la vida laboral del usuario?
+Nuestro producto encaja en la preparación y mejora de las habilidades de los usuarios para entrevistas técnicas, lo que aumenta sus oportunidades de obtener empleo en empresas de tecnología.
+
+¿Cuándo y cómo se usa nuestro producto?
+El producto será utilizado cuando los usuarios estén preparándose para entrevistas técnicas en empresas de tecnología. Se accederá a la plataforma para practicar ejercicios de codificación, revisar preguntas frecuentes y participar en simulacros de entrevistas en vivo.
+
+¿Cómo debe verse y comportarse nuestro producto?
+El producto debe tener una interfaz intuitiva y fácil de usar, con acceso rápido y sencillo a todos los recursos de preparación. Además, debe garantizar la privacidad y seguridad de los datos de los usuarios, así como ofrecer una experiencia personalizada y motivadora para el aprendizaje.
+
+
+  - 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hypothesis Statement 01:**
+**Creemos**  que los programadores y desarrolladores estarán dispuestos a adoptar nuestra plataforma de preparación para entrevistas técnicas para mejorar sus habilidades y aumentar sus posibilidades de éxito en las entrevistas de trabajo en empresas de tecnología.
+**Sabremos** que hemos tenido éxito.
+**Cuando** la tasa de adopción de la plataforma entre los usuarios objetivo alcance al menos el 80% dentro de los primeros tres meses posteriores al lanzamiento.
+
+**Hypothesis Statement 02:**
+**Creemos** que nuestra plataforma facilitará una mejor preparación para las entrevistas técnicas al proporcionar recursos de calidad y simulacros de entrevistas en vivo.
+**Sabremos** que hemos tenido éxito.
+**Cuando** se observe un aumento del 30% en la tasa de éxito de los usuarios en las entrevistas técnicas después de utilizar nuestra plataforma durante al menos un mes.
+
+**Hypothesis Statement 03:**
+**Creemos** que al ofrecer contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento, nuestra plataforma aumentará la satisfacción y la confianza de los usuarios en su preparación para entrevistas técnicas.
+**Sabremos** que hemos tenido éxito.
+**Cuando** al menos el 70% de los usuarios que hayan utilizado las oportunidades de reclutamiento a través de nuestra plataforma informen haber tenido una experiencia positiva y útil.
+
+**Hypothesis Statement 04:**
+**Creemos** que al proporcionar sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas, aumentaremos la retención de usuarios y la satisfacción del cliente.
+**Sabremos** que hemos tenido éxito.
+**Cuando** la tasa de retención de usuarios de la membresía premium supere el 60% en los primeros seis meses de su lanzamiento.
+
+  - 1.2.2.4. Lean UX Canvas
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/8624af12-9d1f-4638-84cf-f773edc14884)
+
 - 1.3. Segmentos objetivo
+
+**Segmento objetivo #1: Desarrolladores en búsqueda de empleo**
+
+Descripción: Este segmento objetivo está compuesto por programadores y desarrolladores de software que están activamente buscando oportunidades laborales en empresas de tecnología.
+
+Aspectos demográficos:
+Sexo: Masculino y Femenino
+Edades: Mayoritariamente entre 18 y 35 años.
+Nivel socioeconómico: Clases A, B, C (Alta, Media-alta y Media)
+
+Aspectos geográficos:
+Nacionalidad: Peruana
+Zona geográfica en la que vive: Urbana
+Departamento: Lima y Callao
+Aspectos psicográficos:
+
+Buscan mejorar sus habilidades técnicas para destacar en el mercado laboral.
+Desean acceder a recursos de preparación para entrevistas de manera conveniente y eficaz.
+Valorizan la seguridad y la privacidad en el almacenamiento de datos.
+Necesidades: Buscan mejorar sus habilidades de codificación, prepararse para entrevistas técnicas y obtener un empleo en el campo tecnológico.
+
+Requisitos: Desean una plataforma que les brinde recursos de calidad, como preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo.
+
+Objetivo: Aumentar sus posibilidades de éxito en el proceso de contratación.
+
+**Segmento objetivo #2: Estudiantes de informática y carreras relacionadas**
+
+Descripción: Este segmento objetivo incluye a estudiantes universitarios y recién graduados de carreras de informática, ingeniería de software y disciplinas afines.
+
+Aspectos demográficos:
+Sexo: Masculino y Femenino
+Edades: Mayoritariamente entre 18 y 25 años.
+Nivel socioeconómico: Clases A, B, C (Alta, Media-alta y Media)
+Aspectos geográficos:
+
+Nacionalidad: Peruana
+Zona geográfica en la que vive: Urbana
+Departamento: Lima y Callao
+
+Aspectos psicográficos:
+Buscan mejorar sus habilidades técnicas y prepararse para su futura inserción laboral.
+Valorizan la facilidad de acceso y la seguridad en el almacenamiento de archivos.
+Prefieren soluciones intuitivas y fáciles de usar para gestionar sus documentos.
+Necesidades: Están interesados en mejorar sus habilidades técnicas y prepararse para futuras entrevistas de trabajo en la industria tecnológica.
+
+Requisitos: Buscan una plataforma que les proporcione tutoriales sobre temas comunes de entrevistas, contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento.
+
+Objetivo: Facilitar su transición al mercado laboral y obtener empleo en empresas líderes del sector tecnológico.
+
+
     
 
 ### Capítulo II: Requirements Elicitation & Analysis
