@@ -296,23 +296,33 @@ Las entrevistas van dirigidas a desarrolladores, estudiantes y programadores ya 
 
   - 2.2.1. Diseño de entrevistas
 
- ¿Cuáles son los mayores desafíos que enfrentas al prepararte para entrevistas técnicas en empresas de tecnología?
 
-¿Qué recursos o plataformas has utilizado anteriormente para prepararte para entrevistas técnicas? ¿Qué aspectos de estos recursos te resultaron más útiles y qué aspectos consideras que podrían mejorarse?
+Preguntas para el Segmento Objetivo #1: Desarrolladores en búsqueda de empleo
 
-¿Qué tipo de características consideras esenciales en una plataforma de preparación para entrevistas técnicas? 
+1. ¿Qué tipo de recursos o herramientas utilizas actualmente para prepararte para entrevistas técnicas?
+2. ¿Cuáles son los principales desafíos que enfrentas al prepararte para entrevistas de trabajo en empresas de tecnología?
+3. ¿Qué valoras más al buscar recursos de preparación para entrevistas técnicas?
+4. ¿Qué características consideras esenciales en una plataforma de preparación para entrevistas técnicas?
+5. ¿Cómo te sentirías al tener acceso a preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo en una plataforma?
+6. ¿Cuál es tu opinión sobre la idea de tener contenido exclusivo de empresas de tecnología en una plataforma de preparación para entrevistas?
+7. ¿Qué tipo de recursos o funcionalidades crees que serían más útiles para mejorar tus habilidades técnicas y prepararte para entrevistas?
+8. ¿Qué importancia le das a la seguridad y privacidad de tus datos al utilizar una plataforma de preparación para entrevistas técnicas?
+9. ¿Consideras que una membresía premium que brinde acceso a contenido adicional y sesiones de tutoría personalizada sería útil para ti?
+10. ¿Cómo crees que una plataforma de preparación para entrevistas técnicas podría aumentar tus posibilidades de éxito en el proceso de contratación?
 
-¿Qué tan importante crees que es la práctica de codificación en tiempo real para prepararte para entrevistas técnicas? ¿Has tenido experiencia previa con simulacros de entrevistas en vivo?
 
-¿Qué áreas específicas de conocimiento técnico crees que son más importantes para destacarte en una entrevista técnica?
+Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras relacionadas
 
-¿Has tenido alguna experiencia en la que la preparación para entrevistas técnicas te ayudo a entrar a un trabajo? Si es así, ¿puedes compartir esa experiencia?
-
-¿Qué te gustaría ver en un contenido exclusivo en una plataforma de preparación para entrevistas técnicas?
-
-¿Considerarías pagar por una membresía premium en una plataforma de preparación para entrevistas técnicas? ¿Qué características o beneficios te convencerán de hacerlo?
-
-¿Hay algún aspecto particular sobre el proceso de preparación para entrevistas técnicas que creas que a menudo se pasa por alto pero que es crucial para el éxito?
+1. ¿Qué estrategias utilizas actualmente para mejorar tus habilidades técnicas y prepararte para tu futura inserción laboral?
+2. ¿Cuáles son tus mayores preocupaciones al enfrentarte al proceso de búsqueda de empleo en la industria tecnológica?
+3. ¿Qué características buscas en una plataforma de preparación para entrevistas técnicas?
+4. ¿Te resultaría útil tener acceso a tutoriales sobre temas comunes de entrevistas en una plataforma de preparación para entrevistas técnicas?
+5. ¿Qué te parecería tener la oportunidad de acceder a contenido exclusivo de empresas de tecnología en una plataforma de preparación para entrevistas?
+6. ¿Qué tipo de recursos o funcionalidades consideras más importantes para mejorar tus habilidades técnicas y prepararte para entrevistas?
+7. ¿Valoras la facilidad de acceso y la usabilidad de una plataforma de preparación para entrevistas técnicas?
+8. ¿Qué opinas sobre la posibilidad de tener sesiones de tutoría personalizada como parte de una membresía premium en una plataforma de preparación para entrevistas?
+9. ¿Cuál es tu opinión sobre la seguridad y privacidad de tus datos al utilizar una plataforma de preparación para entrevistas técnicas?
+10. ¿Cómo crees que una plataforma de preparación para entrevistas técnicas podría facilitar tu transición al mercado laboral y ayudarte a obtener empleo en empresas de tecnología líderes?
 
 - 2.2.2. Registro de entrevistas
 
@@ -385,12 +395,11 @@ Las entrevistas van dirigidas a desarrolladores, estudiantes y programadores ya 
 - 2.3.1. User Personas
   
   Segmento objetivo 1: Leticia Cassanova
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e9cf2616-00fc-422a-9803-0abbff8c61e6)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c6d2950b-7f93-4562-8f4a-7a9f089c93a9)
   
   Segmento objetivo 2: Maria Sanchez
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c328dcbf-3e6a-4b07-8ca3-6ccd5d8034f0)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/3ff745a7-66bd-4319-9ff1-60104ad00ae7)
 
-  
   
 - 2.3.2. User Task Matrix
 Segmento objetivo 1: Leticia Cassanova
@@ -423,17 +432,23 @@ Segmento objetivo 2: Maria Sanchez
 
 
 - 2.3.3. User Journey Mapping
-  
+  Segmento objetivo 1: Leticia Cassanova
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/d99113c8-1dc3-4129-aafd-38589607439b)
+
+
+  Segmento objetivo 2: Maria Sanchez
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/a8e6f328-6069-4355-8be1-1fe952fe34b5)
+
 
 - 2.3.4. Empathy Mapping
 
   Segmento objetivo 1: Leticia Cassanova
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/21a6b83d-675b-4cf9-bfca-103064d65287)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/2078dd41-9aef-4083-9147-0baebb34f5df)
 
   Segmento objetivo 2: Maria Sanchez
 
   
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/258d5100-da3e-4198-8497-c4eea2ff7418)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/a0b23c5e-93ad-4829-9b14-9602232c4641)
 
 - 2.3.5. As-is Scenario Mapping
 
