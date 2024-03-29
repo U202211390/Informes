@@ -347,6 +347,10 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 | **Momento de inicio:**         | 0:05                                                       |
 | **Duración:**                  | 7:32                                                       |
 
+Marcelo me dijo que el como estudiante desea una app facil de usar y que el material sea actualizado,
+ya que eso lo ayudaria a ingresar a las empresas actuales, ademas comento que el si pagaria el premium
+ya que la atencion es mas personalizada.
+
 
 | Entrevistado N°3: Alex Avila | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
 |--------------------------------|------------------------------------------------------------|
@@ -359,7 +363,9 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 | **Momento de inicio:**         | 0:05                                                       |
 | **Duración:**                  | 6:40                                                      |
 
-
+Alex me dijo que le gustaria una plataforma donde pueda codear en tiempo real ya que eso le 
+ayudaria a prepararse para una entrevista de verdad , por otro lado tambien dijo que si
+pagaria premium porque el desea una atencion personalizada segun sus necesidades.
 
 
 
@@ -462,6 +468,31 @@ Segmento objetivo 2: Maria Sanchez
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e10a7b87-9f2c-4cd3-81c4-9c140353212a)
 
 - 2.4. Ubiquitous Language
+User persona ->  personajes imaginarios creados para representar diferentes tipos de usuarios que podrían usar un sitio web o app.
+Feelings -> sentimientos del usuario
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping
