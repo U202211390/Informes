@@ -468,29 +468,13 @@ Segmento objetivo 2: Maria Sanchez
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e10a7b87-9f2c-4cd3-81c4-9c140353212a)
 
 - 2.4. Ubiquitous Language
+  
 User persona ->  personajes imaginarios creados para representar diferentes tipos de usuarios que podrían usar un sitio web o app.
-Feelings -> sentimientos del usuario
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Feelings -> sentimientos del usuario al usar la app.
+Touchpoint -> cualquier punto de contacto entre una marca y un cliente durante su interacción con un producto o servicio.
+Awareness -> el grado en que una persona está familiarizada con un producto.
+loyalty ->  disposición continua de un cliente a comprar o interactuar con la app debido a una conexión emocional, satisfacción pasada o percepción de valor.
+Consideration-> etapa en el proceso de compra en la que el consumidor está evaluando diferentes opciones de productos o servicios antes de tomar una decisión final de compra
 
 
 
