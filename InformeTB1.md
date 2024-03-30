@@ -398,7 +398,7 @@ sí como grupos de estudio con compañeros de programación. Destacó desafíos 
 las simulaciones de entrevistas. Valora la calidad y variedad de los problemas de codificación, así como el acceso a contenido exclusivo de empresas 
 de tecnología. Espera que una plataforma de preparación para entrevistas técnicas ofrezca una amplia gama de problemas de codificación, tutoriales claros 
 y medidas sólidas de seguridad de datos. Considera útil una membresía premium si ofrece contenido adicional y asesoramiento personalizado. En general,
-cree que una plataforma completa puede mejorar las habilidades técnicas y la confianza, aumentando las posibilidades de éxito en el proceso de contratación.
+cree que una plataforma completa puede mejorar las habilidades técnicas y la confianza, aumentando las posibilidades de éxito en el proceso de contratación
 
 
 
