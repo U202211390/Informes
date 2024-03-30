@@ -326,6 +326,9 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 
 - 2.2.2. Registro de entrevistas
 
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/ec3abe0c-f9e2-49dd-849b-d3d52ae2d921)
+
+Segmento Objetivo #1: Desarrolladores
 
 | Entrevistado N°1: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/85909d81-3243-4d99-8a8f-f023bba83fc6" alt="Andrés Valle" style="width: 200px;">|
 |--------------------------------|------------------------------------------------------------|
@@ -336,6 +339,16 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 | **Entrevista:**                | [Link](https://www.youtube.com/watch?v=0C65w_FMg4U)       |
 | **Momento de inicio:**         | 0:02                                                       |
 | **Duración:**                  | 4:06                                                      |
+
+| Entrevistado N°2: Hernan Morales |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/ec3abe0c-f9e2-49dd-849b-d3d52ae2d921" alt="Hernan Morales" style="width: 200px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Hernan Morales                                           |
+| **Edad:**                      | 28                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Desarrollador Web                                     |
+| **Entrevista:**                | [Link](https://youtu.be/c6rtyvA7e8s)       |
+| **Momento de inicio:**         | 0:01                                                       |
+| **Duración:**                  | 3:38                                                      |
 
 
 | Entrevistado N°2: Marcelo Poggi | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
