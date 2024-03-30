@@ -348,9 +348,6 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 | **Momento de inicio:**         | 0:05                                                       |
 | **Duración:**                  | 7:32                                                       |
 
-Marcelo me dijo que el como estudiante desea una app facil de usar y que el material sea actualizado,
-ya que eso lo ayudaria a ingresar a las empresas actuales, ademas comento que el si pagaria el premium
-ya que la atencion es mas personalizada.
 
 
 | Entrevistado N°3: Alex Avila | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
@@ -363,10 +360,6 @@ ya que la atencion es mas personalizada.
 )       |
 | **Momento de inicio:**         | 0:05                                                       |
 | **Duración:**                  | 6:40                                                      |
-
-Alex me dijo que le gustaria una plataforma donde pueda codear en tiempo real ya que eso le 
-ayudaria a prepararse para una entrevista de verdad , por otro lado tambien dijo que si
-pagaria premium porque el desea una atencion personalizada segun sus necesidades.
 
 
 
@@ -391,8 +384,21 @@ pagaria premium porque el desea una atencion personalizada segun sus necesidades
 
 
 - 2.2.3. Análisis de entrevistas
+- 
+Marcelo me dijo que el como estudiante desea una app facil de usar y que el material sea actualizado,
+ya que eso lo ayudaria a ingresar a las empresas actuales, ademas comento que el si pagaria el premium
+ya que la atencion es mas personalizada.
 
+Alex me dijo que le gustaria una plataforma donde pueda codear en tiempo real ya que eso le 
+ayudaria a prepararse para una entrevista de verdad , por otro lado tambien dijo que si
+pagaria premium porque el desea una atencion personalizada segun sus necesidades.
 
+El entrevistado mencionó que utiliza una variedad de recursos, incluyendo libros de entrevistas técnicas y plataformas en línea como LeetCode y HackerRank, a
+sí como grupos de estudio con compañeros de programación. Destacó desafíos como mantenerse actualizado con tecnologías relevantes y manejar la presión durante
+las simulaciones de entrevistas. Valora la calidad y variedad de los problemas de codificación, así como el acceso a contenido exclusivo de empresas 
+de tecnología. Espera que una plataforma de preparación para entrevistas técnicas ofrezca una amplia gama de problemas de codificación, tutoriales claros 
+y medidas sólidas de seguridad de datos. Considera útil una membresía premium si ofrece contenido adicional y asesoramiento personalizado. En general,
+cree que una plataforma completa puede mejorar las habilidades técnicas y la confianza, aumentando las posibilidades de éxito en el proceso de contratación.
 
 
 
