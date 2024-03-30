@@ -481,7 +481,9 @@ Consideration-> etapa en el proceso de compra en la que el consumidor está eval
 ### Capítulo III: Requirements Specification
 **3.1. To-Be Scenario Mapping**
 
-![]([Aspose.Words.02fbef82-c323-4a02-803c-4224f01060c4.001.jpeg](https://private-user-images.githubusercontent.com/142842509/318154362-13dbef1f-cd1a-4a70-8d8a-9d0d3b71695e.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE3NTc3NzgsIm5iZiI6MTcxMTc1NzQ3OCwicGF0aCI6Ii8xNDI4NDI1MDkvMzE4MTU0MzYyLTEzZGJlZjFmLWNkMWEtNGE3MC04ZDhhLTlkMGQzYjcxNjk1ZS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDMzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAzMzBUMDAxMTE4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjE0NTMxMjE2ZjhmNmE3OWZkMzUwOTE2YTFkNDBjZjZmYWI0M2UyYTE5YjI0MTFiOTI3NTVlYjkwMzdhMTJiYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.LreT4NTNcmxh8Dqcw4iM0zj61tdm3WnsyFoct3tbgbk))
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/4b0ac504-971a-4802-b447-785534a8ec82)
+
 
 **3.2. User Stories**
 
@@ -522,7 +524,10 @@ Consideration-> etapa en el proceso de compra en la que el consumidor está eval
 
 **3.3. Impact Mapping**
 
-![]([Aspose.Words.02fbef82-c323-4a02-803c-4224f01060c4.002.png](https://private-user-images.githubusercontent.com/142842509/318154365-89ed6ae1-1b44-4a06-975f-7d64c0fdae5c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE3NTc3NzgsIm5iZiI6MTcxMTc1NzQ3OCwicGF0aCI6Ii8xNDI4NDI1MDkvMzE4MTU0MzY1LTg5ZWQ2YWUxLTFiNDQtNGEwNi05NzVmLTdkNjRjMGZkYWU1Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMzMFQwMDExMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYWM2MzI0NGYyZTAzZGE0YmQ1NDNlNTdkN2Q1MDEzYTVjNGUxMWZmODJlY2NkMmQ5ZmNiNjJlMjcwNTBhM2Y3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._S8_AjxiuOYRC766YleGDhP2JUJZXqAXOq_eAccBZP8))
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/170d76de-fc2f-4bb2-bb61-f1c9eb922ec2)
+
+
 
 **3.4. Product Backlog**
 
