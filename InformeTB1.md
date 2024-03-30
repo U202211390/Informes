@@ -481,6 +481,7 @@ Consideration-> etapa en el proceso de compra en la que el consumidor está eval
 ### Capítulo III: Requirements Specification
 **3.1. To-Be Scenario Mapping**
 
+
 ![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/4b0ac504-971a-4802-b447-785534a8ec82)
 
 
@@ -522,6 +523,7 @@ Consideration-> etapa en el proceso de compra en la que el consumidor está eval
 
 
 **3.3. Impact Mapping**
+
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/170d76de-fc2f-4bb2-bb61-f1c9eb922ec2)
 
