@@ -326,15 +326,16 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 
 - 2.2.2. Registro de entrevistas
 
-| Entrevistado N°1: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+
+| Entrevistado N°1: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/85909d81-3243-4d99-8a8f-f023bba83fc6" alt="Andrés Valle" style="max-width: 200px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Andrés Valle                                               |
-| **Edad:**                      | 32                                                         |
+| **Edad:**                      | 28                                                         |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
-| **Momento de inicio:**         | 0:04                                                       |
-| **Duración:**                  | 3:50                                                       |
+| **Ocupación:**                 | Desarrollador Web                                     |
+| **Entrevista:**                | [Link]([https://youtu.be/0C65w_FMg4U])       |
+| **Momento de inicio:**         | 0:02                                                       |
+| **Duración:**                  | 4:06                                                      |
 
 
 | Entrevistado N°2: Marcelo Poggi | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
