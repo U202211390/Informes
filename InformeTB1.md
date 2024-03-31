@@ -412,7 +412,7 @@ las simulaciones de entrevistas. Valora la calidad y variedad de los problemas d
 de tecnología. Espera que una plataforma de preparación para entrevistas técnicas ofrezca una amplia gama de problemas de codificación, tutoriales claros 
 y medidas sólidas de seguridad de datos. Considera útil una membresía premium si ofrece contenido adicional y asesoramiento personalizado. En general,
 cree que una plataforma completa puede mejorar las habilidades técnicas y la confianza, aumentando las posibilidades de éxito en el proceso de contratación
-
+El entrevistado mencionó una variedad de recursos que utiliza para prepararse para entrevistas técnicas, incluyendo plataformas en línea, libros especializados y proyectos personales. Destacó desafíos como la gestión del tiempo y la adaptación a diferentes estilos de entrevista. Valora la calidad del contenido al buscar recursos de preparación y considera esencial que una plataforma ofrezca problemas desafiantes y recursos para mejorar habilidades blandas. Se sentiría seguro y preparado con acceso a preguntas frecuentes de entrevistas y contenido exclusivo de empresas. Considera que recursos como sesiones de práctica de entrevistas en vivo serían útiles para mejorar sus habilidades y confianza. La seguridad de sus datos es una prioridad al utilizar plataformas en línea, y consideraría una membresía premium que brinde acceso a contenido adicional. En general, espera que una plataforma de preparación efectiva lo ayude a mejorar técnicamente y a destacar durante el proceso de contratación.
 
 
 
