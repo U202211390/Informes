@@ -502,7 +502,10 @@ Consideration-> etapa en el proceso de compra en la que el consumidor está eval
 **3.1. To-Be Scenario Mapping**
 
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/4b0ac504-971a-4802-b447-785534a8ec82)
+![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/ff0e78a9-d35e-4e34-b482-7239e122609c)
+
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/113a32bc-9242-4702-b8ec-3dcd162bf075)
 
 
 **3.2. User Stories**
