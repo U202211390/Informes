@@ -418,6 +418,11 @@ El entrevistado mencionó una variedad de recursos que utiliza para prepararse p
 
 
 - 2.3. Needfinding
+
+  Entrevistas editadas y consolidadas:
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/621dd50c-1c8c-4831-aa97-97cb83a1f9d1)
+
 - 2.3.1. User Personas
   
   Segmento objetivo 1: Leticia Cassanova
