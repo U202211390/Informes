@@ -621,8 +621,25 @@ Consideration-> etapa en el proceso de compra en la que el consumidor está eval
 - 4.5. Web Applications Prototyping
 - 4.6. Domain-Driven Software Architecture
   - 4.6.1. Software Architecture Context Diagram
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/0c6edff0-e4e4-4d85-8f21-9ae36604785d)
+
   - 4.6.2. Software Architecture Container Diagrams
+    
+   **Para usuarios de GetWork:**
+
+   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/62c40ce8-eae4-48c1-9977-9c06250bb9b0)
+
+  **Para empresas tecnológicas de GetWork:**
+
+   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/461e8b1e-76ac-4234-81bb-bd34c60083d9)
+
+
   - 4.6.3. Software Architecture Components Diagrams
+
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/6a1e7aab-5339-4f7e-938c-db8fd13faa7d)
+
+  
 - 4.7. Software Object-Oriented Design
   - 4.7.1. Class Diagrams
 
