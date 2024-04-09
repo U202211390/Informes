@@ -707,22 +707,22 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 
 
 - Video About-the-Team
+
 **Bibliografía**
 
 
 
 **Anexos**
-
-- [Enlace para acceder a la landing page](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
-- [Enlace para acceder a la aplicación web desplegada](https://greenhouse-web.netlify.app/dashboard)
+- Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
+- Enlace para acceder la aplicación web: [NO aplica este entregable]()
 - Video exposición TB1: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/ETlown8FiyNFmGcBIfkwGlQBybMGayEc5LST4n8ijOu_gg?e=NITvEX)
-- Video exposición TP: [upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4](upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4)
-- Video exposición TB2: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110278_upc_edu_pe/EdBhCCMsm1xIpAaciy8oE1gBnbXCYUdv-FHCHtdq4fVRkA?e=aTufgS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-- Video exposición TF: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/EcUeziU6iodHqwfbhsrvH5oBLX-lUiVJDVC7pEHIdw_vjA?e=gdPEbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Enlace para acceder al video About the team subido a Stream: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-- Enlace para acceder al video About the team subido a YouTube: [Ver enlace](https://youtu.be/GHF8mKq5Sak)
-- Enlace para acceder al video About the product subido a Stream: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-- Enlace para acceder al video About the product subido a YouTube: [Ver enlace](https://youtu.be/BMjgyGefraM)
+- Video exposición TP: [NO aplica este entregable](upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4)
+- Video exposición TB2: [NO aplica este entregable]()
+- Video exposición TF: [NO aplica este entregable]()
+- Enlace para acceder al video About the team subido a Stream: [Ver enlace]()
+- Enlace para acceder al video About the team subido a YouTube: [Ver enlace]()
+- Enlace para acceder al video About the product subido a Stream: [Ver enlace]()
+- Enlace para acceder al video About the product subido a YouTube: [Ver enlace]()
 
 
 </div>
