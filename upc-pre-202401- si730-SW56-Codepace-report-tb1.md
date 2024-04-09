@@ -388,7 +388,7 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 | **Nombre:**                    | Alex Avila                                             |
 | **Edad:**                      | 19                                                       |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Estudiante de ingieniria de software                                 |
+| **Ocupación:**                 | Estudiante de <br>ingieniria de software                                 |
 | **Entrevista:**                | [Link](  https://s17.aconvert.com/convert/p3r68-cdx67/p74mx-5ve2z.mp4) |
 | **Momento de inicio:**         | 0:05                                                       |
 | **Duración:**                  | 6:40                                                      |
@@ -399,7 +399,7 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 | **Nombre:**                    | Diego Salinas                                             |
 | **Edad:**                      | 19                                                       |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Estudiante de ingieniria<br> de software                                 |
+| **Ocupación:**                 | Estudiante de ingenieria<br> de software                                 |
 | **Entrevista:**                | [Link](https://drive.google.com/file/d/1l9Agozs3p2_F24CDDCJoige9KMbaJu-x/view?usp=sharing)    |
 | **Momento de inicio:**         | 0:03                                                       |
 | **Duración:**                  | 7:06                                                      |
