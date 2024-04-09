@@ -273,14 +273,14 @@ Objetivo: Facilitar su transición al mercado laboral y obtener empleo en empres
 
   - 2.1.1. Análisis competitivo
 
-LeetCode: Es una plataforma en línea para que los programadores practiquen sus habilidades de codificación a través de una amplia gama de preguntas de entrevistas técnicas.
-Ofrece una variedad de preguntas clasificadas por dificultad y tema, así como discusiones comunitarias y soluciones para cada pregunta y proporciona una amplia gama de recursos gratuitos y opciones de suscripción premium para acceder a contenido adicional y características avanzadas.
+    LeetCode: Es una plataforma en línea para que los programadores practiquen sus habilidades de codificación a través de una amplia gama de preguntas de entrevistas técnicas.
+    Ofrece una variedad de preguntas clasificadas por dificultad y tema, así como discusiones comunitarias y soluciones para cada pregunta y proporciona una amplia gama de recursos gratuitos y opciones de suscripción premium para acceder a contenido adicional y características avanzadas.
 
-HackerRank: Es una plataforma para que los programadores mejoren sus habilidades de codificación y se preparen para entrevistas técnicas.
-Ofrece desafíos de codificación en línea, tutoriales y entrevistas prácticas, así como una comunidad activa de desarrolladores, por otro lado colabora con empresas de tecnología para ofrecer oportunidades de reclutamiento a través de la plataforma, conectando a los usuarios con empleadores potenciales.
+    HackerRank: Es una plataforma para que los programadores mejoren sus habilidades de codificación y se preparen para entrevistas técnicas.
+    Ofrece desafíos de codificación en línea, tutoriales y entrevistas prácticas, así como una comunidad activa de desarrolladores, por otro lado colabora con empresas de tecnología para ofrecer oportunidades de reclutamiento a través de la plataforma, conectando a los usuarios con empleadores potenciales.
 
-InterviewBit Es una plataforma diseñada para ayudar a los programadores a prepararse para entrevistas técnicas en empresas de tecnología.
-Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y sesiones de práctica en vivo con expertos y colabora con empresas de tecnología para ofrecer contenido exclusivo y oportunidades de reclutamiento para los usuarios de la plataforma.
+    InterviewBit Es una plataforma diseñada para ayudar a los programadores a prepararse para entrevistas técnicas en empresas de tecnología.
+    Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y sesiones de práctica en vivo con expertos y colabora con empresas de tecnología para ofrecer contenido exclusivo y oportunidades de reclutamiento para los usuarios de la plataforma.
 
         
   - 2.1.2. Estrategias y tácticas frente a competidores
@@ -300,9 +300,9 @@ Ofrece una combinación de preguntas de entrevistas prácticas, tutoriales y ses
 </table>
 
 
-- 2.2. Entrevistas
+  - 2.2. Entrevistas
   
-Las entrevistas van dirigidas a desarrolladores, estudiantes y programadores ya que son el público objetivo principal de la plataforma, entrevistarlos permitirá comprender sus necesidades específicas en términos de preparación para entrevistas técnicas, qué recursos encuentran más útiles, qué áreas considera más desafiantes y qué características valorarán en la plataforma.
+  Las entrevistas van dirigidas a desarrolladores, estudiantes y programadores ya que son el público objetivo principal de la plataforma, entrevistarlos permitirá comprender sus necesidades específicas en términos de preparación para entrevistas técnicas, qué recursos encuentran más útiles, qué áreas considera más desafiantes y qué características valorarán en la plataforma.
 
   - 2.2.1. Diseño de entrevistas
 
@@ -335,8 +335,6 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 10. ¿Cómo crees que una plataforma de preparación para entrevistas técnicas podría facilitar tu transición al mercado laboral y ayudarte a obtener empleo en empresas de tecnología líderes?
 
 - 2.2.2. Registro de entrevistas
-
-![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/ec3abe0c-f9e2-49dd-849b-d3d52ae2d921)
 
 Segmento Objetivo #1: Desarrolladores
 
