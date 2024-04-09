@@ -407,35 +407,34 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 
 - 2.2.3. Análisis de entrevistas
   
-Marcelo me dijo que el como estudiante desea una app facil de usar y que el material sea actualizado,
-ya que eso lo ayudaria a ingresar a las empresas actuales, ademas comento que el si pagaria el premium
-ya que la atencion es mas personalizada.
-
-Alex me dijo que le gustaria una plataforma donde pueda codear en tiempo real ya que eso le 
-ayudaria a prepararse para una entrevista de verdad , por otro lado tambien dijo que si
-pagaria premium porque el desea una atencion personalizada segun sus necesidades.
-
-El entrevistado mencionó que utiliza una variedad de recursos, incluyendo libros de entrevistas técnicas y plataformas en línea como LeetCode y HackerRank, a
-sí como grupos de estudio con compañeros de programación. Destacó desafíos como mantenerse actualizado con tecnologías relevantes y manejar la presión durante
-las simulaciones de entrevistas. Valora la calidad y variedad de los problemas de codificación, así como el acceso a contenido exclusivo de empresas 
-de tecnología. Espera que una plataforma de preparación para entrevistas técnicas ofrezca una amplia gama de problemas de codificación, tutoriales claros 
-y medidas sólidas de seguridad de datos. Considera útil una membresía premium si ofrece contenido adicional y asesoramiento personalizado. En general,
-cree que una plataforma completa puede mejorar las habilidades técnicas y la confianza, aumentando las posibilidades de éxito en el proceso de contratación
-El entrevistado mencionó una variedad de recursos que utiliza para prepararse para entrevistas técnicas, incluyendo plataformas en línea, libros especializados y proyectos personales. Destacó desafíos como la gestión del tiempo y la adaptación a diferentes estilos de entrevista. Valora la calidad del contenido al buscar recursos de preparación y considera esencial que una plataforma ofrezca problemas desafiantes y recursos para mejorar habilidades blandas. Se sentiría seguro y preparado con acceso a preguntas frecuentes de entrevistas y contenido exclusivo de empresas. Considera que recursos como sesiones de práctica de entrevistas en vivo serían útiles para mejorar sus habilidades y confianza. La seguridad de sus datos es una prioridad al utilizar plataformas en línea, y consideraría una membresía premium que brinde acceso a contenido adicional. En general, espera que una plataforma de preparación efectiva lo ayude a mejorar técnicamente y a destacar durante el proceso de contratación.
-
-Conclusion del analisis: 
-Los entrevistados expresaron la importancia de tener acceso a una plataforma de preparación para entrevistas técnicas que sea fácil de usar y que ofrezca material actualizado. Marcelo enfatizó la necesidad de una atención personalizada y estar dispuesto a pagar por una membresía premium que ofreciera este tipo de servicio. Por otro lado, Alex destacó la importancia de poder codificar en tiempo real para prepararse mejor para las entrevistas reales, también dispuesto a pagar por una atención personalizada según sus necesidades. Los entrevistados valoran la calidad y variedad de los problemas de codificación, así como el acceso a contenido exclusivo de empresas de tecnología. Esperan que la plataforma ofrezca tutoriales claros, medidas sólidas de seguridad de datos y contenido adicional como sesiones de práctica de entrevistas en vivo. La membresía premium es considerada útil si ofrece contenido adicional y asesoramiento personalizado.
-
-En resumen, los entrevistados buscan una plataforma integral que les ayude a mejorar técnicamente y a destacar durante el proceso de contratación, ofreciendo una combinación de problemas desafiantes, recursos para mejorar habilidades blandas y acceso a contenido exclusivo y atención personalizada.
+| Entrevistado | Necesidades                                                                             | Pago Premium |
+|--------------|-----------------------------------------------------------------------------------------|--------------|
+| Marcelo Poggi      | - App fácil de usar <br> - Material actualizado <br> - Atención personalizada          | Sí           |
+| Alex Ávila        | - Plataforma para codear en tiempo real <br> - Preparación para entrevistas reales <br> - Atención personalizada | Sí |
+| Hernán Morales       | - Acceso a problemas desafiantes <br> - Recursos para mejorar habilidades blandas <br> - Contenido exclusivo de empresas | Sí |
+| Andrés Valle      | - Acceso a preguntas frecuentes de entrevistas <br> - Contenido exclusivo de empresas <br> - Sesiones de práctica de entrevistas en vivo | Sí |
+| Diego Salinas       | - Acceso a preguntas frecuentes de entrevistas <br> - Contenido exclusivo de empresas <br> - Sesiones de práctica de entrevistas en vivo | Sí |
+| Bárbara Quezada     | - Acceso a preguntas frecuentes de entrevistas <br> - Recursos para mejorar habilidades blandas <br> - Atención personalizada | Sí |
 
 
-- 2.3. Needfinding
+Aspectos Valorados:
+- Calidad y variedad de problemas de codificación
+- Acceso a contenido exclusivo de empresas de tecnología
+- Tutoriales claros
+- Medidas sólidas de seguridad de datos
+- Sesiones de práctica de entrevistas en vivo
+- Contenido adicional y asesoramiento personalizado
+
+Conclusiones del Análisis:
+Los entrevistados, Marcelo, Alex, Hernán, Andrés, Diego y Bárbara, demandan una plataforma de preparación para entrevistas técnicas que cumpla con criterios específicos. Marcelo prioriza una atención personalizada y la actualización constante del material, demostrando disposición a pagar por una membresía premium que ofrezca estos servicios. Por otro lado, Alex busca una experiencia interactiva de codificación en tiempo real para simular entrevistas reales, también dispuesto a invertir en una atención personalizada y acceso a contenido exclusivo. Hernán valora el acceso a problemas desafiantes, recursos para mejorar habilidades blandas y contenido exclusivo de empresas. Andrés y Diego buscan acceso a preguntas frecuentes de entrevistas, contenido exclusivo de empresas y sesiones prácticas en vivo. Bárbara busca una plataforma que ofrezca preguntas frecuentes de entrevistas, recursos para mejorar habilidades blandas y una atención personalizada. En resumen, la plataforma ideal debe ofrecer una combinación de desafíos técnicos, recursos de aprendizaje claros y una atención adaptada a las necesidades individuales de los usuarios.
 
   Entrevistas editadas y consolidadas:
 
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/621dd50c-1c8c-4831-aa97-97cb83a1f9d1)
 
   [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- 2.3. Needfinding
 
 - 2.3.1. User Personas
   
@@ -477,21 +476,24 @@ Segmento objetivo 2: Maria Sanchez
 
 
 - 2.3.3. User Journey Mapping
+
   Segmento objetivo 1: Leticia Cassanova
+
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/d99113c8-1dc3-4129-aafd-38589607439b)
 
 
   Segmento objetivo 2: Maria Sanchez
+
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/a8e6f328-6069-4355-8be1-1fe952fe34b5)
 
 
 - 2.3.4. Empathy Mapping
 
   Segmento objetivo 1: Leticia Cassanova
+
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/2078dd41-9aef-4083-9147-0baebb34f5df)
 
   Segmento objetivo 2: Maria Sanchez
-
   
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/a0b23c5e-93ad-4829-9b14-9602232c4641)
 
@@ -508,13 +510,23 @@ Segmento objetivo 2: Maria Sanchez
 
 - 2.4. Ubiquitous Language
   
-User persona ->  personajes imaginarios creados para representar diferentes tipos de usuarios que podrían usar un sitio web o app.
-Feelings -> sentimientos del usuario al usar la app.
-Touchpoint -> cualquier punto de contacto entre una marca y un cliente durante su interacción con un producto o servicio.
-Awareness -> el grado en que una persona está familiarizada con un producto.
-loyalty ->  disposición continua de un cliente a comprar o interactuar con la app debido a una conexión emocional, satisfacción pasada o percepción de valor.
-Consideration-> etapa en el proceso de compra en la que el consumidor está evaluando diferentes opciones de productos o servicios antes de tomar una decisión final de compra
+  **Entrevistas Técnicas:** Procesos de evaluación utilizados por las empresas de tecnología para evaluar las habilidades técnicas y la idoneidad de los candidatos para un puesto.
+  
+- **Recursos de Preparación:** Materiales educativos y herramientas utilizadas para mejorar las habilidades técnicas y prepararse para entrevistas técnicas, incluyendo preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo.
 
+- **Plataforma de Preparación para Entrevistas Técnicas:** Sistema en línea diseñado para ayudar a los programadores y desarrolladores a mejorar sus habilidades técnicas y prepararse para entrevistas técnicas, proporcionando una amplia gama de recursos de preparación y oportunidades de práctica.
+
+- **Usuarios Objetivo:** Grupos específicos de personas a quienes está dirigido el producto, incluyendo desarrolladores en búsqueda de empleo y estudiantes de informática y carreras relacionadas.
+
+- **Valor Agregado:** Beneficios adicionales proporcionados por la plataforma de preparación para entrevistas técnicas, como acceso a contenido exclusivo de empresas de tecnología, oportunidades de reclutamiento integradas y sesiones de tutoría personalizada.
+
+- **Lean UX Process:** Método de desarrollo centrado en la optimización del producto mediante la validación, el pensamiento y la acción, incluyendo la identificación de problemas, suposiciones, hipótesis y el uso de lienzos para organizar ideas y estrategias.
+
+- **Problem Statements:** Declaraciones que identifican los problemas principales que enfrentan los usuarios y guían el proceso de diseño y desarrollo del producto.
+
+- **Hypothesis Statements:** Declaraciones que expresan creencias sobre cómo resolver los problemas identificados y establecen criterios para evaluar el éxito del producto.
+
+- **Lean UX Canvas:** Herramienta visual utilizada para definir y organizar los elementos clave del proceso de diseño y desarrollo del producto, incluyendo problemas, soluciones, suposiciones y métricas de éxito.
 
 
 ### Capítulo III: Requirements Specification
