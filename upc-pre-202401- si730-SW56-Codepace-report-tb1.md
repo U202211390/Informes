@@ -22,10 +22,15 @@
 
 | Nombre                            | Código       |
 |-----------------------------------|--------------|
-| Adrián Enrique Jesús Palma Obispo| u202210066   |
-| Paolo Del Carmen Martinez Villanueva | 202010039 |
+| Adriano Sebastian Cruz Palomino| u202210697   |
+| Sebastian Nicolas Cachis Gonzales | u202210846 |
 | Jeremy Joel Quispe Andia         | u202216279   |
 | Andrea Milagros Cabanillas Gora    | u202211711   |
+| Elias Yauri Paucar     | u202211817   |
+| Alexander Jair Castillo Castillo     | u202211390   |
+
+
+
 ### Marzo del 2024
 </div>
 
