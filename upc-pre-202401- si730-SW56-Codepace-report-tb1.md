@@ -696,13 +696,33 @@ Segmento objetivo 2: Maria Sanchez
 
 **Conclusiones**
 - Conclusiones y recomendaciones
+
+El proyecto "GetWork" de la startup CodePace se presenta como una solución innovadora y necesaria para abordar un desafío comúnmente enfrentado por los estudiantes universitarios: la falta de preparación adecuada para enfrentar entrevistas técnicas y el mercado laboral en el campo de la tecnología. Mediante una cuidadosa investigación y análisis de las necesidades de los estudiantes y las demandas de la industria, CodePace ha desarrollado una plataforma integral que tiene como objetivo cerrar la brecha entre la educación académica y las expectativas del mundo laboral. Esta iniciativa demuestra un profundo compromiso de la startup con el éxito y el crecimiento profesional de los estudiantes, así como con la creación de una fuerza laboral altamente calificada en el campo de la tecnología.
+
+Una de las fortalezas clave del proyecto "GetWork" radica en su enfoque centrado en el usuario. CodePace ha comprendido la importancia de brindar una experiencia integral y personalizada a sus usuarios. La plataforma ofrece una amplia gama de recursos y herramientas, que van desde preguntas frecuentes de entrevistas hasta ejercicios de codificación práctica y simulacros de entrevistas en vivo con expertos. Además, la colaboración estrecha con empresas de tecnología permite a CodePace ofrecer contenido exclusivo y oportunidades de reclutamiento para sus usuarios. Este enfoque centrado en el usuario garantiza que los estudiantes tengan acceso a recursos relevantes y actualizados, lo que mejora significativamente sus posibilidades de éxito en el proceso de búsqueda de empleo y los coloca en una posición ventajosa en un mercado altamente competitivo.
+
+Además de su enfoque en el desarrollo de habilidades técnicas, el proyecto "GetWork" hace hincapié en la importancia de las competencias interpersonales y las habilidades de trabajo en equipo. CodePace reconoce que el éxito en la industria de la tecnología no se limita únicamente a la excelencia técnica, sino que también requiere la capacidad de colaborar eficazmente en equipos multidisciplinarios. Por lo tanto, el proyecto busca fomentar la participación efectiva y objetiva de los estudiantes en proyectos reales, brindándoles la oportunidad de aplicar sus conocimientos y habilidades en un entorno de trabajo colaborativo. Además, al proporcionar a los estudiantes la oportunidad de conocer y comprender al menos un sector empresarial o dominio de aplicación de soluciones de software, se promueve una visión más amplia y contextualizada de las habilidades necesarias en el campo. Esta combinación única de habilidades técnicas y competencias interpersonales fortalece el perfil de los estudiantes, los prepara adecuadamente para los desafíos del mundo laboral y los diferencia como profesionales altamente capacitados y versátiles.
+
+En conlusión, el proyecto "GetWork" de CodePace representa una solución innovadora y necesaria para abordar la brecha entre la educación académica y las demandas del mercado laboral en el campo de la tecnología. Su enfoque centrado en el usuario, la oferta integral de recursos y herramientas, así como la promoción de competencias interpersonales y habilidades de trabajo en equipo, demuestran el compromiso de la startup con el éxito y el crecimiento profesional de los estudiantes. Este proyecto no solo prepara a los estudiantes para enfrentar entrevistas técnicas, sino que también los equipa con las habilidades necesarias para sobresalir en la industria tecnológica y contribuir al desarrollo de soluciones innovadoras.
+
+
 - Video About-the-Team
 **Bibliografía**
 
 
-</div>
 
 **Anexos**
 
+- [Enlace para acceder a la landing page](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
+- [Enlace para acceder a la aplicación web desplegada](https://greenhouse-web.netlify.app/dashboard)
+- Video exposición TB1: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/ETlown8FiyNFmGcBIfkwGlQBybMGayEc5LST4n8ijOu_gg?e=NITvEX)
+- Video exposición TP: [upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4](upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4)
+- Video exposición TB2: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110278_upc_edu_pe/EdBhCCMsm1xIpAaciy8oE1gBnbXCYUdv-FHCHtdq4fVRkA?e=aTufgS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Video exposición TF: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/EcUeziU6iodHqwfbhsrvH5oBLX-lUiVJDVC7pEHIdw_vjA?e=gdPEbN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Enlace para acceder al video About the team subido a Stream: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Enlace para acceder al video About the team subido a YouTube: [Ver enlace](https://youtu.be/GHF8mKq5Sak)
+- Enlace para acceder al video About the product subido a Stream: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Enlace para acceder al video About the product subido a YouTube: [Ver enlace](https://youtu.be/BMjgyGefraM)
 
 
+</div>
