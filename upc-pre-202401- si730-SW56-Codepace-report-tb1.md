@@ -1,3 +1,5 @@
+<div align="center">
+
 # Universidad Peruana de Ciencias Aplicadas
 ### INFORME DEL TRABAJO 1 (TB1)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
@@ -25,6 +27,9 @@
 | Jeremy Joel Quispe Andia         | u202216279   |
 | Andrea Milagros Cabanillas Gora    | u202211711   |
 ### Marzo del 2024
+</div>
+
+<div align="justify">
 
 ### Registro de Informes
 
@@ -675,6 +680,9 @@ Consideration-> etapa en el proceso de compra en la que el consumidor está eval
 - Conclusiones y recomendaciones
 - Video About-the-Team
 **Bibliografía**
+
+
+</div>
 
 **Anexos**
 
