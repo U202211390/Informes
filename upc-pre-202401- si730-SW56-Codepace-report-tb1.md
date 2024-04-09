@@ -402,7 +402,7 @@ Segmento Objetivo #1: Desarrolladores
 
 
 - 2.2.3. Análisis de entrevistas
-- 
+  
 Marcelo me dijo que el como estudiante desea una app facil de usar y que el material sea actualizado,
 ya que eso lo ayudaria a ingresar a las empresas actuales, ademas comento que el si pagaria el premium
 ya que la atencion es mas personalizada.
@@ -428,8 +428,10 @@ En resumen, los entrevistados buscan una plataforma integral que les ayude a mej
 - 2.3. Needfinding
 
   Entrevistas editadas y consolidadas:
-  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/621dd50c-1c8c-4831-aa97-97cb83a1f9d1)
+
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - 2.3.1. User Personas
   
