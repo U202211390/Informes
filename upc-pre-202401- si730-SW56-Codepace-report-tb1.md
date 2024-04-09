@@ -40,11 +40,18 @@
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completo  |
-| 1.1       |  2024/03/22    | Cabanillas Gora, Andrea Milagros|ante la fase de diseño, arquitectura propuesta y diseños de interfaz.               | Completo  |
-| 1.2       |  2024/03/22    | Adrián Palma |implementación de funcionalidades, obstáculos encontrados y decisiones tomadas.     | En Proceso|
-| 1.3       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-
+| 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completado  |
+| 1.1       |  2024/03/22    | Quispe Andia, Jeremy Joel  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
+| 1.2       |  2024/03/22    |  |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
+| 1.3       |  2024/03/22    | |Elaboración de user personas, impact mapping, as-is y to-be | Completado |
+| 1.4       |  2024/03/22    | |Elaboración de user stories, product backlog | Pendiente |
+| 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  | Pendiente |
+| 1.6       |  2024/03/22    | |Redacción de style guidelines e information architecture| Pendiente |
+| 1.7       |  2024/03/22    | |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
+| 1.8       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
+| 1.9       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
+| 2.0       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos| Pendiente |
+| 2.1       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado |
 
 ### Project Report Collaboration Insights
 
@@ -63,8 +70,8 @@
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|----------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | 2024/03/22 | |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | 2024/03/22 | |
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Adrián Enrique Jesús Palma Obispo<br><b>TB1</b><br>Para esta entrega comuniqué mis ideas y propuse nuevas soluciones en las llamadas grupales, además de participar activamente en estas.<br><br>Bárbara Antonella Espinoza Delgado<br><b>TB1</b><br>Me mantuve activa en la participación y comunicación oral en las llamadas grupales, dando ideas de mejora y ayuda tanto para el informe como para la Landing Page.<br><br>Jeremy Joel Quispe Andia<br><b>TB1</b><br>Participe en las llamadas grupales de cada semana pidiendo opiniones y nuevas ideas de implementación para la Landing Page. Además, realicé entrevistas a los usuarios para conocer sus opiniones y recomendaciones acerca del proyecto.<br><br>Leonel Alfaro Cumba<br><b>TB1</b><br>Estuve presente en las llamadas grupales y comunicaba mis dudas e ideas al grupo sobre los puntos que me tocaba realizar, como las entrevistas, donde me encargue de resumir las respuestas de los usuarios entrevistados.<br><br>Paolo Del Carmen Martinez Villanueva<br><b>TB1</b><br>Comuniqué mi idea de proyecto mediante la primera llamada grupal, la cual quedó como finalista y me encargue de especificar cada punto de la idea a todos los integrantes.|<b>TB1</b><br>Como conclusión para esta primera entrega del proyecto tenemos que la comunicación oral grupal desde el inicio del proyecto es fundamental para un buen inicio de trabajo, tanto para conocernos entre nosotros como para expresar nuestras ideas, dudas y consultas como para tener una buena organización en el proyecto.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Adrián Enrique Jesús Palma Obispo<br><b>TB1</b><br>Realice las partes escritas del informe que me correspondían, en especial los Sprints y las conclusiones, además de ayudar en otras partes a mis compañeros.<br><br>Bárbara Antonella Espinoza Delgado<br><b>TB1</b><br>Realice de manera puntual las partes escritas que me correspondían en el proyecto, además de incluir fuentes bibliográficas que respalden el proyecto e ir comunicando a mis compañeros los avances que tenía y realice las correcciones considerando sus ideas de mejora y nuevas propuestas.<br><br>Jeremy Joel Quispe Andia<br><b>TB1</b><br>Me encargue de redactar el capítulo 2 del informe y colaborar en otros puntos textuales del informe. También fui quien envió la idea finalista al profesor, recibir su retroalimentación y comunicar al resto del grupo.<br><br>Leonel Alfaro Cumba<br><b>TB1</b><br>Realicé una importante sección de la Landing Page en la que tenía que describir resumidamente a la Startup y al grupo en general y me mantuve comunicado mediante el grupo de Whatsapp para hacer mis consultas.<br><br>Paolo Del Carmen Martinez Villanueva<br><b>TB1</b><br>Me encargue de la creación y redacción de los puntos del capítulo 3, además de ayudar en el capítulo 5 y realizar una sección con contenido textual en la Landing Page.|<b>TB1</b><br>La comunicación escrita es imprescindible en un grupo para mantener a todos informados constantemente sobre los avances y dudas. Además, plasmar textualmente nuestras investigaciones y aprendizaje en el informe ayuda a que cualquier usuario pueda entender más a detalle nuestro proyecto.|
 
 ### Capítulo I: Introducción
 - 1.1. Startup Profile
