@@ -358,6 +358,16 @@ Segmento Objetivo #1: Desarrolladores
 | **Momento de inicio:**         | 0:01                                                       |
 | **Duración:**                  | 3:38                                                      |
 
+| Entrevistado N°3: Bárbara Quezada | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/74231784-ca8b-4bd6-b71b-1b668a84927f" alt="Barbara" width="190"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Barbara Quezada                                             |
+| **Edad:**                      | 24                                                        |
+| **Sexo:**                      | Femenino                                                  |
+| **Ocupación:**                 | Desarrolladora Web                                     |
+| **Entrevista:**                | [Link]( https://s21.aconvert.com/convert/p3r68-cdx67/upbbj-6fgmc.mp4) |
+| **Momento de inicio:**         | 0:05                                                       |
+| **Duración:**                  | 11:08                                                       |
+
 
 Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 
@@ -393,27 +403,6 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 | **Entrevista:**                | [Link](https://drive.google.com/file/d/1l9Agozs3p2_F24CDDCJoige9KMbaJu-x/view?usp=sharing)    |
 | **Momento de inicio:**         | 0:03                                                       |
 | **Duración:**                  | 7:06                                                      |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - 2.2.3. Análisis de entrevistas
