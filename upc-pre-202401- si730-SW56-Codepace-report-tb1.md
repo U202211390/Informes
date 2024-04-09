@@ -338,7 +338,7 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 
 Segmento Objetivo #1: Desarrolladores
 
-| Entrevistado N°1: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/85909d81-3243-4d99-8a8f-f023bba83fc6" alt="Andrés Valle" style="width: 200px;">|
+| Entrevistado N°1: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/85909d81-3243-4d99-8a8f-f023bba83fc6" alt="Andrés Valle" style="width: 220px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Andrés Valle                                               |
 | **Edad:**                      | 28                                                         |
@@ -359,28 +359,40 @@ Segmento Objetivo #1: Desarrolladores
 | **Duración:**                  | 3:38                                                      |
 
 
-| Entrevistado N°2: Marcelo Poggi | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
+
+| Entrevistado N°4: Marcelo Poggi | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/e9564a4e-34c4-47d8-b3af-3dc9c2a913ba" alt="Poggi" width="200"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Marcelo Poggi                                             |
 | **Edad:**                      | 20                                                        |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | ciencias de la computacion                                     |
+| **Ocupación:**                 | Estudiante de <br>ciencias de la computación                                     |
 | **Entrevista:**                | [Link]( https://s21.aconvert.com/convert/p3r68-cdx67/upbbj-6fgmc.mp4) |
 | **Momento de inicio:**         | 0:05                                                       |
 | **Duración:**                  | 7:32                                                       |
 
 
 
-| Entrevistado N°3: Alex Avila | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+| Entrevistado N°5: Alex Avila | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/df319732-3e30-4916-b740-59f4bcf9d440" alt="alex" width="200"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Alex Avila                                             |
 | **Edad:**                      | 19                                                       |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Estudiante de ingieniria de software                                 |
 | **Entrevista:**                | [Link](  https://s17.aconvert.com/convert/p3r68-cdx67/p74mx-5ve2z.mp4) |
-)       |
 | **Momento de inicio:**         | 0:05                                                       |
 | **Duración:**                  | 6:40                                                      |
+
+
+| Entrevistado N°6: Diego Salinas | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/2ca79dc6-d0d4-479c-b399-2b83dbf9b2b4" alt="Diego" width="200"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Diego Salinas                                             |
+| **Edad:**                      | 19                                                       |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Estudiante de ingieniria<br> de software                                 |
+| **Entrevista:**                | [Link](https://drive.google.com/file/d/1l9Agozs3p2_F24CDDCJoige9KMbaJu-x/view?usp=sharing)    |
+| **Momento de inicio:**         | 0:03                                                       |
+| **Duración:**                  | 7:06                                                      |
 
 
 
