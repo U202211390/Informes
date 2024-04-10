@@ -689,7 +689,56 @@ Segmento objetivo 2: Maria Sanchez
   - 5.1.1. Software Development Environment Configuration
   - 5.1.2. Source Code Management
   - 5.1.3. Source Code Style Guide & Conventions
+
+    Convenciones de Nomenclatura:
+
+    - HTML, CSS, JavaScript:
+      - Utilizar camelCase para nombres de variables y funciones.
+      - Emplear nombres descriptivos que reflejen el propósito o contenido del elemento.
+      - Evitar abreviaturas a menos que estén ampliamente aceptadas o estandarizadas.
+      - Utilizar letras minúsculas para nombres de archivos y carpetas.
+
+    Convenciones de Codificación:
+
+    - Guía de Estilo y Convenciones de Codificación HTML:
+      - Seguir las mejores prácticas para la estructura HTML, incluyendo la indentación y comentarios.
+      - Utilizar elementos HTML semánticos cuando sea apropiado.
+
+
+
+
+    - Guía de Estilo de Google para HTML/CSS:
+      - Mantener un formato y una indentación consistentes.
+      - Utilizar preprocesadores CSS como Sass para organizar y modularizar el código.
+    - Guía de Estilo de Google para JavaScript, Directrices de JavaScript de MDN, Guía de Estilo de JavaScript de la W3C:
+      - Seguir los estándares ES6 para la sintaxis de JavaScript.
+      - Emplear nombres de variables significativos y evitar variables globales cuando sea posible.
+      - Utilizar funciones de flecha, literales de plantilla y desestructuración cuando sea apropiado.
+    - Guía de Estilo de Vue:
+      - Seguir las pautas específicas de Vue.js para la estructura y convenciones de nombres de componentes.
+      - Utilizar eficazmente el sistema de reactividad de Vue para un renderizado eficiente.
+    - Convenciones de Codificación de C#, Directrices de Codificación de ASP.NET Core de Microsoft:
+      - Seguir las convenciones de codificación de C# de Microsoft para garantizar consistencia y legibilidad.
+      - Utilizar PascalCase para nombres de clases y métodos, camelCase para variables locales y parámetros.
+      - Implementar un manejo adecuado de errores y el uso de excepciones.
+
   - 5.1.4. Software Deployment Configuration
+
+    Pasos de Implementación:
+
+    - Página de Aterrizaje:
+      - Asegurar que todos los archivos HTML, CSS y JavaScript estén minimizados para una carga eficiente.
+      - Utilizar un servidor web como Apache o Nginx para servir archivos estáticos.
+      - Considerar la implementación a través de plataformas como Netlify o Vercel para una configuración fácil y despliegue continuo.
+    - Servicios Web:
+      - Contenerizar los servicios web utilizando Docker para consistencia entre entornos.
+      - Utilizar pipelines de integración y despliegue continuo (CI/CD) con herramientas como Jenkins o GitLab CI.
+      - Desplegar en plataformas en la nube como AWS, Azure o Google Cloud para escalabilidad y confiabilidad.
+    - Aplicaciones Web Frontend:
+      - Agrupar los activos frontend utilizando webpack o Parcel para optimización.
+      - Utilizar CDNs para servir bibliotecas y frameworks y mejorar los tiempos de carga.
+      - Implementar estrategias de almacenamiento en caché para activos estáticos para reducir la carga del servidor.
+
 - 5.2. Landing Page, Services & Applications Implementation
   - 5.2.X. Sprintn
     - 5.2.X.1. Sprint Planningn
