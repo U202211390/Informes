@@ -345,25 +345,27 @@ Preguntas para el Segmento Objetivo #2: Estudiantes de informática y carreras r
 
 Segmento Objetivo #1: Desarrolladores
 
-| Entrevistado N°1: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/85909d81-3243-4d99-8a8f-f023bba83fc6" alt="Andrés Valle" style="width: 220px;">|
-|--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Andrés Valle                                               |
-| **Edad:**                      | 28                                                         |
-| **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Desarrollador Web                                     |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=0C65w_FMg4U)       |
-| **Momento de inicio:**         | 0:02                                                       |
-| **Duración:**                  | 4:06                                                      |
-
-| Entrevistado N°2: Hernan Morales |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/ec3abe0c-f9e2-49dd-849b-d3d52ae2d921" alt="Hernan Morales" style="width: 200px;">|
+| Entrevistado N°1: Hernan Morales |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/ec3abe0c-f9e2-49dd-849b-d3d52ae2d921" alt="Hernan Morales" style="width: 200px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Hernan Morales                                           |
 | **Edad:**                      | 28                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Desarrollador Web                                     |
-| **Entrevista:**                | [Link](https://youtu.be/c6rtyvA7e8s)       |
+| **Entrevista:**                | [Link]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))       |
 | **Momento de inicio:**         | 0:01                                                       |
-| **Duración:**                  | 3:38                                                      |
+| **Duración:**                  | 3:36                                                      |
+
+
+| Entrevistado N°2: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/85909d81-3243-4d99-8a8f-f023bba83fc6" alt="Andrés Valle" style="width: 220px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 28                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Desarrollador Web                                     |
+| **Entrevista:**                | [Link]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))       |
+| **Momento de inicio:**         | 3:37                                                       |
+| **Duración:**                  | 7:40                                                      |
+
 
 | Entrevistado N°3: Bárbara Quezada | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/74231784-ca8b-4bd6-b71b-1b668a84927f" alt="Barbara" width="190"> |
 |--------------------------------|------------------------------------------------------------|
@@ -371,9 +373,9 @@ Segmento Objetivo #1: Desarrolladores
 | **Edad:**                      | 24                                                        |
 | **Sexo:**                      | Femenino                                                  |
 | **Ocupación:**                 | Desarrolladora Web                                     |
-| **Entrevista:**                | [Link]( https://s21.aconvert.com/convert/p3r68-cdx67/upbbj-6fgmc.mp4) |
-| **Momento de inicio:**         | 0:05                                                       |
-| **Duración:**                  | 11:08                                                       |
+| **Entrevista:**                | [Link]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
+| **Momento de inicio:**         | 7:41                                                       |
+| **Duración:**                  | 12:36                                                       |
 
 
 Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
@@ -384,9 +386,9 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 | **Edad:**                      | 20                                                        |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Estudiante de <br>ciencias de la computación                                     |
-| **Entrevista:**                | [Link]( https://s21.aconvert.com/convert/p3r68-cdx67/upbbj-6fgmc.mp4) |
-| **Momento de inicio:**         | 0:05                                                       |
-| **Duración:**                  | 7:32                                                       |
+| **Entrevista:**                | [Link]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
+| **Momento de inicio:**         | 12:37                                                       |
+| **Duración:**                  | 16:19                                                       |
 
 
 
@@ -396,9 +398,9 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 | **Edad:**                      | 19                                                       |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Estudiante de <br>ingieniria de software                                 |
-| **Entrevista:**                | [Link](  https://s17.aconvert.com/convert/p3r68-cdx67/p74mx-5ve2z.mp4) |
-| **Momento de inicio:**         | 0:05                                                       |
-| **Duración:**                  | 6:40                                                      |
+| **Entrevista:**                | [Link]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
+| **Momento de inicio:**         | 16:20                                                       |
+| **Duración:**                  | 21:44                                                      |
 
 
 | Entrevistado N°6: Diego Salinas | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/2ca79dc6-d0d4-479c-b399-2b83dbf9b2b4" alt="Diego" width="200"> |
@@ -407,9 +409,9 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 | **Edad:**                      | 19                                                       |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Estudiante de ingenieria<br> de software                                 |
-| **Entrevista:**                | [Link](https://drive.google.com/file/d/1l9Agozs3p2_F24CDDCJoige9KMbaJu-x/view?usp=sharing)    |
-| **Momento de inicio:**         | 0:03                                                       |
-| **Duración:**                  | 7:06                                                      |
+| **Entrevista:**                | [Link]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))    |
+| **Momento de inicio:**         | 21:45                                                       |
+| **Duración:**                  | 26:45                                                      |
 
 
 - 2.2.3. Análisis de entrevistas
@@ -434,9 +436,6 @@ Aspectos Valorados:
 
 Conclusiones del Análisis:
 Los entrevistados, Marcelo, Alex, Hernán, Andrés, Diego y Bárbara, demandan una plataforma de preparación para entrevistas técnicas que cumpla con criterios específicos. Marcelo prioriza una atención personalizada y la actualización constante del material, demostrando disposición a pagar por una membresía premium que ofrezca estos servicios. Por otro lado, Alex busca una experiencia interactiva de codificación en tiempo real para simular entrevistas reales, también dispuesto a invertir en una atención personalizada y acceso a contenido exclusivo. Hernán valora el acceso a problemas desafiantes, recursos para mejorar habilidades blandas y contenido exclusivo de empresas. Andrés y Diego buscan acceso a preguntas frecuentes de entrevistas, contenido exclusivo de empresas y sesiones prácticas en vivo. Bárbara busca una plataforma que ofrezca preguntas frecuentes de entrevistas, recursos para mejorar habilidades blandas y una atención personalizada. En resumen, la plataforma ideal debe ofrecer una combinación de desafíos técnicos, recursos de aprendizaje claros y una atención adaptada a las necesidades individuales de los usuarios.
-
-  Entrevistas editadas y consolidadas:
-  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - 2.3. Needfinding
 
@@ -797,7 +796,7 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
 - Enlace para acceder la aplicación web: [NO aplica este entregable]()
-- Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Video de todas las entrevistas subido a stream: [Ver enlace]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video exposición TB1: [Ver enlace]()
 - Video exposición TP: [NO aplica este entregable]()
 - Video exposición TB2: [NO aplica este entregable]()
