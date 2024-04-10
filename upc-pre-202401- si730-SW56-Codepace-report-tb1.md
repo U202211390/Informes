@@ -436,9 +436,6 @@ Conclusiones del Análisis:
 Los entrevistados, Marcelo, Alex, Hernán, Andrés, Diego y Bárbara, demandan una plataforma de preparación para entrevistas técnicas que cumpla con criterios específicos. Marcelo prioriza una atención personalizada y la actualización constante del material, demostrando disposición a pagar por una membresía premium que ofrezca estos servicios. Por otro lado, Alex busca una experiencia interactiva de codificación en tiempo real para simular entrevistas reales, también dispuesto a invertir en una atención personalizada y acceso a contenido exclusivo. Hernán valora el acceso a problemas desafiantes, recursos para mejorar habilidades blandas y contenido exclusivo de empresas. Andrés y Diego buscan acceso a preguntas frecuentes de entrevistas, contenido exclusivo de empresas y sesiones prácticas en vivo. Bárbara busca una plataforma que ofrezca preguntas frecuentes de entrevistas, recursos para mejorar habilidades blandas y una atención personalizada. En resumen, la plataforma ideal debe ofrecer una combinación de desafíos técnicos, recursos de aprendizaje claros y una atención adaptada a las necesidades individuales de los usuarios.
 
   Entrevistas editadas y consolidadas:
-
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/621dd50c-1c8c-4831-aa97-97cb83a1f9d1)
-
   [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - 2.3. Needfinding
@@ -800,14 +797,15 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
 - Enlace para acceder la aplicación web: [NO aplica este entregable]()
-- Video exposición TB1: [Ver enlace](https://upcedupe-my.sharepoint.com/g/personal/u202110223_upc_edu_pe/ETlown8FiyNFmGcBIfkwGlQBybMGayEc5LST4n8ijOu_gg?e=NITvEX)
-- Video exposición TP: [NO aplica este entregable](upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4)
+- Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EU-1jSpvOBpJt0PgVW8SzV0BbJ-oLOsWbCycqdiWUHuHYA?e=5Olov8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Video exposición TB1: [Ver enlace]()
+- Video exposición TP: [NO aplica este entregable]()
 - Video exposición TB2: [NO aplica este entregable]()
 - Video exposición TF: [NO aplica este entregable]()
-- Enlace para acceder al video About the team subido a Stream: [Ver enlace]()
-- Enlace para acceder al video About the team subido a YouTube: [Ver enlace]()
-- Enlace para acceder al video About the product subido a Stream: [Ver enlace]()
-- Enlace para acceder al video About the product subido a YouTube: [Ver enlace]()
+- Enlace para acceder al video About the team subido a Stream: [NO aplica este entregable]()
+- Enlace para acceder al video About the team subido a YouTube: [NO aplica este entregable]()
+- Enlace para acceder al video About the product subido a Stream: [NO aplica este entregable]()
+- Enlace para acceder al video About the product subido a YouTube: [NO aplica este entregable]()
 
 
 </div>
