@@ -745,7 +745,7 @@ Segmento objetivo 2: Maria Sanchez
     - 5.2.X.2. Sprint Backlogn
     - 5.2.X.3. Development Evidence for Sprint Review
 
-      |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
+|Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
 |CodepaceOrganization<br>/GetWork-LandingPage|Main|bd35415a70de158448df206203a28b3928499858|feat: add initial version of landing page|-|26/03/2024| 
 |CodepaceOrganization<br>/GetWork-LandingPage|Main|0a6658255c117aef8c9b9aa91d25bb8b0d126855|refactor: Replace <div> with <header> for navbar|-|27/03/2024|
