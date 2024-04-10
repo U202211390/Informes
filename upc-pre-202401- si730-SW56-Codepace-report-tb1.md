@@ -798,13 +798,12 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 - Enlace para acceder la aplicación web: [NO aplica este entregable]()
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video exposición TB1: [Ver enlace]()
-- Video exposición TP: [NO aplica este entregable]()
-- Video exposición TB2: [NO aplica este entregable]()
-- Video exposición TF: [NO aplica este entregable]()
 - Enlace para acceder al video About the team subido a Stream: [NO aplica este entregable]()
 - Enlace para acceder al video About the team subido a YouTube: [NO aplica este entregable]()
 - Enlace para acceder al video About the product subido a Stream: [NO aplica este entregable]()
 - Enlace para acceder al video About the product subido a YouTube: [NO aplica este entregable]()
+- Repositorio GitHub Frontend: [Codepaceganization/LandingPage-TripTeam](https://github.com/CodepaceOrganization/GetWork-LandingPage)
+- Repositorio GitHub Informe: [CodepaceOrganization/Informes]([https://github.com/TripTeamOrganization/Informes](https://github.com/CodepaceOrganization/Informes))
 
 
 </div>
