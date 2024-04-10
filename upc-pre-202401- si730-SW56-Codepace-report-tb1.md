@@ -747,32 +747,33 @@ Segmento objetivo 2: Maria Sanchez
 
 |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|bd35415a70de158448df206203a28b3928499858|feat: add initial version of landing page|-|26/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|0a6658255c117aef8c9b9aa91d25bb8b0d126855|refactor: Replace <div> with <header> for navbar|-|27/03/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|21c0f1852240a18a8f11838c04536f837ee4a462|styles: add styles for navbar|-|27/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|d6d55fc3f83386624168be6cad334d1ef1288060|feat: add in the index the services section and the images|-|27/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|16d3c8f9834f8885ff447f04a4ead43afc075892|refactor: names of the images of services|-|28/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|0452280a622545a4f3b454ae1c09362235594b3f|style: implement the style to the index and the images for the service section|-|28/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|b8bd137ceea62b34d041f3aa4866892313dd0f3e|refactor: variable names instead of color code in the CSS|-|29/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|716c4ec508c1a3ec41cdf75bfb38cb460d2f07e3|feat: add in the index the about section and the style|-|29/03/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|988016ca40b2f2209781ca7675c1f531720b90f7|feat: Add Login.html Login.css Login.js|-|29/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|fix: the back-button class in login.html|-|23/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|1069955d1ba273510b2e864b7ce749ece726e0d0|fix: Add link to registration page from login form|-|30/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|ec9602b1229ccfc3181f7244b8af8e98b6ef8fa1|fix: folder structure arrangement|-|30/03/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|f3dfcc5fa935ee119644c4d5b7856acea7419322|feat: add contact in the code and their styles|-|30/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|f386290611319da884af87c9715b0ea9fd1bf528|fix: ref css login transition|-|30/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|feat: added the register interface and made some changes to the login|-|30/03/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|bd2d6af2f4b0c6c5792d4715ddff21b1805685e8|fix: section plans|-|30/03/2024|  
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|e46b5a0c80b9f4a9640c4e58f9d09515d092b0ae|feat: add contact in the code and their styles|-|02/04/2024| 
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|268ec8c123f953229bcff732f16954eba4148b54|Fix: navbar and plans responsive|-|02/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|32a7bbdf9d904e535b595c8f85368519feb08adf|Feat: add section inicio and ajust navbar responsive|-|04/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|5c5c700eb169731c10fe683654169748e86e485f|Feat: Add footer and styles|-|04/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|ae238f8c9188f29d77d38fd4989a2871ed343977|feat: update HTML code with structural changes and fixed links|-|07/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|bedba2e90fa3d8a7aef1b2ac027c0edffbcd93c4|feat: Add styles and functionality to the navbar|-|07/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|e8214c578f8d197343b69075ce69bd405594a142|fix: Fix responsive layout on mobile devices and navbar functionality|-|07/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|c1b2f40dd212946ffbe33ebdd1bd2814fca209f8|fix: the folders|-|09/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|e1c853cc6799df0b0dbde55decb0304cf17544eb|feat: add readme of the landingpage|-|09/04/2024|
-|CodepaceOrganization<br>/GetWork-LandingPage|Main|1d0488b8aba5f29604ce136470fc2a9ffa09667f|fix: route the images|-|09/04/2024|
+|AdrianoSCruzP/CodepaceOrganization<br>/GetWork-LandingPage|Main|bd35415a70de158448df206203a28b3928499858|feat: add initial version of landing page|-|26/03/2024| 
+|AdrianoSCruzP/CodepaceOrganization<br>/GetWork-LandingPage|Main|0a6658255c117aef8c9b9aa91d25bb8b0d126855|refactor: Replace <div> with <header> for navbar|-|27/03/2024|
+|AdrianoSCruzP/CodepaceOrganization<br>/GetWork-LandingPage|Main|21c0f1852240a18a8f11838c04536f837ee4a462|styles: add styles for navbar|-|27/03/2024| 
+|Dark7YT/CodepaceOrganization<br>/GetWork-LandingPage|Main|d6d55fc3f83386624168be6cad334d1ef1288060|feat: add in the index the services section and the images|-|27/03/2024| 
+|Dark7YT/CodepaceOrganization<br>/GetWork-LandingPage|Main|16d3c8f9834f8885ff447f04a4ead43afc075892|refactor: names of the images of services|-|28/03/2024| 
+|Dark7YT/CodepaceOrganization<br>/GetWork-LandingPage|Main|0452280a622545a4f3b454ae1c09362235594b3f|style: implement the style to the index and the images for the service section|-|28/03/2024| 
+|Dark7YT/CodepaceOrganization<br>/GetWork-LandingPage|Main|b8bd137ceea62b34d041f3aa4866892313dd0f3e|refactor: variable names instead of color code in the CSS|-|29/03/2024| 
+|Dark7YT/CodepaceOrganization<br>/GetWork-LandingPage|Main|716c4ec508c1a3ec41cdf75bfb38cb460d2f07e3|feat: add in the index the about section and the style|-|29/03/2024|
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|988016ca40b2f2209781ca7675c1f531720b90f7|feat: Add Login.html Login.css Login.js|-|29/03/2024| 
+|Dark7YT/CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|fix: the back-button class in login.html|-|23/03/2024| 
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|1069955d1ba273510b2e864b7ce749ece726e0d0|fix: Add link to registration page from login form|-|30/03/2024| 
+|AdrianoSCruzP/CodepaceOrganization<br>/GetWork-LandingPage|Main|ec9602b1229ccfc3181f7244b8af8e98b6ef8fa1|fix: folder structure arrangement|-|30/03/2024|
+|U202211390/CodepaceOrganization<br>/GetWork-LandingPage|Main|f3dfcc5fa935ee119644c4d5b7856acea7419322|feat: add contact in the code and their styles|-|30/03/2024| 
+|U202211390/CodepaceOrganization<br>/GetWork-LandingPage|Main|f386290611319da884af87c9715b0ea9fd1bf528|fix: ref css login transition|-|30/03/2024| 
+|EliasYP/CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|feat: added the register interface and made some changes to the login|-|30/03/2024| 
+|U202211390/CodepaceOrganization<br>/GetWork-LandingPage|Main|bd2d6af2f4b0c6c5792d4715ddff21b1805685e8|fix: section plans|-|30/03/2024|  
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|bd2d6af2f4b0c6c5792d4715ddff21b1805685e8|feat: add section plans and images|-|30/03/2024|  
+|U202211390/CodepaceOrganization<br>/GetWork-LandingPage|Main|e46b5a0c80b9f4a9640c4e58f9d09515d092b0ae|feat: add contact in the code and their styles|-|02/04/2024| 
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|268ec8c123f953229bcff732f16954eba4148b54|Fix: navbar and plans responsive|-|02/04/2024|
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|32a7bbdf9d904e535b595c8f85368519feb08adf|Feat: add section inicio and ajust navbar responsive|-|04/04/2024|
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|5c5c700eb169731c10fe683654169748e86e485f|Feat: Add footer and styles|-|04/04/2024|
+|AdrianoSCruzP/CodepaceOrganization<br>/GetWork-LandingPage|Main|ae238f8c9188f29d77d38fd4989a2871ed343977|feat: update HTML code with structural changes and fixed links|-|07/04/2024|
+|AdrianoSCruzP/CodepaceOrganization<br>/GetWork-LandingPage|Main|bedba2e90fa3d8a7aef1b2ac027c0edffbcd93c4|feat: Add styles and functionality to the navbar|-|07/04/2024|
+|AdrianoSCruzP/CodepaceOrganization<br>/GetWork-LandingPage|Main|e8214c578f8d197343b69075ce69bd405594a142|fix: Fix responsive layout on mobile devices and navbar functionality|-|07/04/2024|
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|c1b2f40dd212946ffbe33ebdd1bd2814fca209f8|fix: the folders|-|09/04/2024|
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|e1c853cc6799df0b0dbde55decb0304cf17544eb|feat: add readme of the landingpage|-|09/04/2024|
+|Jemisas/CodepaceOrganization<br>/GetWork-LandingPage|Main|1d0488b8aba5f29604ce136470fc2a9ffa09667f|fix: route the images|-|09/04/2024|
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
   - 5.2.X.5. Execution Evidence for Sprint Review
@@ -791,8 +792,6 @@ Además de su enfoque en el desarrollo de habilidades técnicas, el proyecto "Ge
 
 En conlusión, el proyecto "GetWork" de CodePace representa una solución innovadora y necesaria para abordar la brecha entre la educación académica y las demandas del mercado laboral en el campo de la tecnología. Su enfoque centrado en el usuario, la oferta integral de recursos y herramientas, así como la promoción de competencias interpersonales y habilidades de trabajo en equipo, demuestran el compromiso de la startup con el éxito y el crecimiento profesional de los estudiantes. Este proyecto no solo prepara a los estudiantes para enfrentar entrevistas técnicas, sino que también los equipa con las habilidades necesarias para sobresalir en la industria tecnológica y contribuir al desarrollo de soluciones innovadoras.
 
-
-- Video About-the-Team
 
 **Bibliografía**
 
