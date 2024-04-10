@@ -802,8 +802,8 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 - Enlace para acceder al video About the team subido a YouTube: [NO aplica este entregable]()
 - Enlace para acceder al video About the product subido a Stream: [NO aplica este entregable]()
 - Enlace para acceder al video About the product subido a YouTube: [NO aplica este entregable]()
-- Repositorio GitHub Frontend: [Codepaceganization/LandingPage-TripTeam](https://github.com/CodepaceOrganization/GetWork-LandingPage)
-- Repositorio GitHub Informe: [CodepaceOrganization/Informes]([https://github.com/TripTeamOrganization/Informes](https://github.com/CodepaceOrganization/Informes))
+- Repositorio GitHub LandingPage: [Codepaceganization/LandingPage-TripTeam](https://github.com/CodepaceOrganization/GetWork-LandingPage)
+- Repositorio GitHub Informes: [CodepaceOrganization/Informes](https://github.com/CodepaceOrganization/Informes)
 
 
 </div>
