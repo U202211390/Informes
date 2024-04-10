@@ -796,7 +796,7 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
 - Enlace para acceder la aplicación web: [NO aplica este entregable]()
-- Video de todas las entrevistas subido a stream: [Ver enlace]([https://youtu.be/c6rtyvA7e8s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video exposición TB1: [Ver enlace]()
 - Video exposición TP: [NO aplica este entregable]()
 - Video exposición TB2: [NO aplica este entregable]()
