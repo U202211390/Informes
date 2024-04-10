@@ -774,12 +774,11 @@ Segmento objetivo 2: Maria Sanchez
 |CodepaceOrganization<br>/GetWork-LandingPage|Main|e1c853cc6799df0b0dbde55decb0304cf17544eb|feat: add readme of the landingpage|-|09/04/2024|
 |CodepaceOrganization<br>/GetWork-LandingPage|Main|1d0488b8aba5f29604ce136470fc2a9ffa09667f|fix: route the images|-|09/04/2024|
 
-
-    - 5.2.X.4. Testing Suite Evidence for Sprint Review
-    - 5.2.X.5. Execution Evidence for Sprint Review
-    - 5.2.X.6. Services Documentation Evidence for Sprint Review
-    - 5.2.X.7. Software Deployment Evidence for Sprint Review
-    - 5.2.X.8. Team Collaboration Insights during Sprint
+  - 5.2.X.4. Testing Suite Evidence for Sprint Review
+  - 5.2.X.5. Execution Evidence for Sprint Review
+  - 5.2.X.6. Services Documentation Evidence for Sprint Review
+  - 5.2.X.7. Software Deployment Evidence for Sprint Review
+  - 5.2.X.8. Team Collaboration Insights during Sprint
 
 **Conclusiones**
 - Conclusiones y recomendaciones
